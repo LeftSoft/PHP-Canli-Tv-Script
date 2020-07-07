@@ -1,0 +1,2759 @@
+/*============	Media 1366Px Start ============ */
+@media (max-width: 1366px){
+	.kode_about_history:before{
+		left:125px;
+	}
+}	
+@media (min-width: 992px) and (max-width: 1199px) {
+	.login-wraper3{
+		margin-right:23px;
+	}
+	.kode-wrapper.wrap_2.wrap_4{
+		position:none;
+	}
+	.spb-ticker2{
+		width:750px;
+		padding:15px 0px;
+	}
+	.spb-ticker2 .ticker-dec a{
+		font-size:12px;
+	}
+	.logo-3{
+		width:17%;
+	}
+	.nav4 .kode_nave li{
+		padding:29px 12px 27px 12px;
+	}
+	.football-caption{
+		padding:20px 30px;
+	}
+	.kode-ft-caption{
+		margin-top:-90px;
+	}
+	.football-caption h4{
+		font-size:56px;
+	}
+	.football-caption h6{
+		font-size:30px;
+	}
+	.football-caption h5{
+		font-size:40px;
+	}
+	.ft-about-wrap .text h4{
+		font-size:26px;
+	}
+	.ftb-result2 .text{
+		padding-left:50px;
+	}
+	.ftb-result1 .text{
+		padding-right:73px;
+	}
+	.ftb-post-thumb .text h6{
+		font-size:13px;
+	}
+	.ftb-main-table li > div{
+		padding:0px 10px;
+	}
+	.compitatev-team1 a{
+		font-size:13px;
+	}
+	.compitatev-team1 img{
+		margin-right:5px;
+	}
+	.ftb-compitatev span{
+		font-size:30px;
+		height:60px;
+		width:60px;
+		line-height:60px;
+	}
+	.hire{
+		padding:15px 25px;
+	}
+	.text .spb-meta2 a{
+		font-size:13px;
+	}
+	.text .spb-meta2 li{
+		margin-right:5px;
+	}
+	.text .spb-meta2 li:last-child{
+		margin:0px;
+	}
+	.ftb_goal_tab_detail li a{
+		width:230px;
+		font-size:16px;
+	}
+	.ftb_goal_tabs{
+		margin-bottom:20px;
+	}
+	.ftb-team-dec .text a{
+		font-size:15px;
+	}
+	/*404 page*/
+	.kode_404_wraper{
+		height:960px;
+	}
+	.kode_404_text form{
+		margin:auto auto 130px;
+	}
+	/*404 02 page*/
+	.kode_404_text.text_2 p{
+		position:relative;
+	}
+	.kode_404_wraper.wrp_2 {
+		height: 1020px;
+	}
+	/*404 03 page*/
+	.kode-football{
+		float:left;
+		width:100%;
+	}
+	.kode_404_wraper.wrap_3,
+	.kode-football .kode-wrapper.wrap_2{
+		height:1140px;
+	}
+	/*about us page*/
+
+
+	.kode_club_training ul li a{
+		font-size:12px;
+		padding-left:17px;
+	}
+	.kode_club_training p,
+	.kode_club_training ul li{
+		margin-bottom:10px;
+	}
+	.kode_about_mission_text{
+		padding:132px 15px 140px;
+	}
+	.kode_about_history:before{
+		left:54px;
+	}
+	.kode_history_winner li a{
+		font-size:14px;
+	}
+	.kode_history_winner li span{
+		margin-right:10px;
+	}
+	/*blog 2 page*/
+	.kode_blog_caption.caption_2 p {
+		font-size: 12px;
+		line-height: 20px;
+		margin: 0;
+	}
+	.kode_blog_caption.caption_2 {
+		margin-bottom: 15px;
+	}
+	.kode_blog_text.text_2 .kode_blog_comment > a{
+		padding:11px 10px;
+		font-size:12px;
+	}
+	.kode_blog_text.text_2 .kode_blog_comment ul li{
+		margin-left:20px;
+	}
+	.kode_blog_text.text_2  .kode_blog_comment ul li:first-child{
+		margin:0px;
+	}
+	/*blog detail page*/
+	.kode_detail_comment_text a{
+		right:73px;
+	}
+	.kode_detail_comment_text.comment_2 a {
+		right: 37px;
+	}
+	.kode_detail_categories.flicker.macth .kode_detail_macth li h6{
+		font-size:12px;
+	}
+	.kode_detail_categories.flicker.macth .kode_detail_macth li h2 {
+		font-size: 20px;
+	}
+	.kode_detail_find_row .kode_soprt_text{
+		padding:0 0 0 14px;
+	}
+	.kode_detail_find_fig p{
+		font-size:11px;
+	}
+	.kode_detail_categories.flicker.macth.find .kode_detail_find_fig li{
+		margin:0 1px 1px 0;
+	}
+	.kode_detail_find_facebook i {
+		margin-right: 5px;
+	}
+	.kode_detail_field{
+		width:47%;
+	}
+	
+	/*cooming soon page*/
+	.kode-wrapper.wrap_2.wrap_4{
+		height:900px;
+	}
+	/*fixture page*/
+	.ftb-result-logo span{
+		padding:16px 25px 17px;
+		font-size:19px;
+	}
+	.ftb-result1 .text.text_2{
+		padding:0 27px 0 0;
+	}
+	.ftb-result2 .ftb-result-logo span{
+		right:-32px;
+	}
+	.ftb-result1.ftb-result2 .text.text_2{
+		padding:0 0 0 43px;
+	}
+	.ftb-main-table .ftb-date.date_2 {
+		padding: 25px 10px;
+	}
+	.compitatev-team1 a{
+		display:none;
+	}
+	.ftb-rating-table li div a{
+		font-size:10px;
+	}
+	.ftb-rating-table li div img{
+		margin-right:5px;
+	}
+	/*our team*/
+	.ftb-team-thumb.thumb_2{
+		left:370px;
+	}
+	/*single player team*/
+	.kode_ply_list a{
+		font-size:12px;
+	}
+	.kode_player_text h6{
+		font-size:10px;
+	}
+	.kode_ply_galery_list li{
+		width:23%;
+	}
+	.kode_ply_galery_list.list_2 li{
+		width:30.3%;
+	}
+	.kode_satnderd_text{
+		width:37%;
+	}
+	.kode_standerd_select .demoHeaders{
+		font-size:13px;
+	}
+	.kode_standerd_doller{
+		margin-right:25px;
+	}
+	.kode_standerd_select{
+		width:35%;
+	}
+	.kode-wrapper.wrap_2.wrap_3 {
+		height: 1200px;
+	}
+	
+
+	/*tennis home page*/
+	.counterup-dec h3{
+		font-size:23px;
+	}
+	.crkt-navigation li a{
+		font-size:11px;
+		padding:10px 8px 8px;
+	}
+	.tns-gallery-caption a {
+		height: 36px;
+		line-height: 33px;
+		width: 40px;
+	}
+	.tns-gallery-caption{
+		margin:-40px auto 0;
+	}
+	.crkt-navigation li{
+		margin:0px;
+	}
+	.crkt-logo{
+		margin:0px;
+	}
+	.spb-latest-news .text{
+		text-align:center;
+	}
+	.spb-latest-news .text h5 a{
+		line-height:24px;
+	}
+	.spb-meta2 li{
+		margin-right:5px;
+	}
+	.spb-meta2 li i, .spb-meta2 li span, .spb-meta2 li a{
+		font-size:11px;
+	}
+	.ticker-dec span{
+		float:left;
+		margin-top:10px;
+	}
+	.spb-btn2 {
+		float: left;
+		margin-top: 15px;
+		padding: 10px;
+		width: 100%;
+	}
+	.crkt-bnr-caption{
+		margin:-172px auto auto -114px;
+	}
+	.current-match a {
+		line-height: 30px;
+	}
+	.crkt-hd3 h4{
+		font-size:23px;
+	}
+	.crkt-event .text a {
+		font-size: 13px;
+	}
+	.crkt-fixtures-dec .text span{
+		font-size:15px;
+	}
+	.input-dec input[type="text"]{
+		width:177px;
+	}
+	.input-dec button{
+		padding:13px 16px 12px;
+	}
+	.widget-crktgallery ul li{
+		width:31%;
+	}
+	.crkt-team-dec{
+		padding:25px 88px 25px 0;
+	}
+	.crkt-plyer1{
+		margin-left:-574px;
+		width:45%
+	}
+	.crkt-plyer2{
+		display:none;
+	}
+	.dl-trigger {
+		display: none;
+	}
+	.add-caption{
+		padding:30px 26px;
+	}
+	.spb-nav .navigation li a{
+		font-size:15px;
+	}
+	.spb-nav .navigation li{
+		margin-right:17px;
+	}
+	.tns-event-caption{
+		text-align:center;
+	}
+	.tns-event-caption h4 a{
+		line-height:32px;
+	}
+	.tns-team-1 {
+		text-align: center;
+		width: 100%;
+	}
+	.tns-team-1 h5,
+	.tns-team-1 > a{
+		float:none;
+		display:inline-block;
+		margin-right:10px;
+	}
+	.tns-team-1 h5{
+		position: relative;
+		top: -20px;
+	}
+	.tns-tabs-teams span{
+		margin-bottom:10px;
+	}
+	.tns-gallery-caption span{
+		font-size:12px;
+	}
+	.tns-blog-caption h4 a{
+		font-size:16px;
+	}
+	.tsn-news ul li a{
+		line-height:19px;
+	}
+	.tennis-nav .navigation li a{
+		padding:47px 12px;
+	}
+	.tns-event-caption p {
+		font-size: 14px;
+	}
+	.tns-team-caption p{
+		font-size:13px;
+	}
+	.spb-latest-news6 .thumb {
+		width: 100%;
+	}
+	.spb-latest-news .text p {
+		font-size: 13px;
+	}
+	.spb-latest-news6 .spb-meta2{
+		text-align:center;
+	}
+	.spb-meta2 li {
+		margin-right: 3px;
+		display:inline-block;
+		float:none;
+	}
+	.spb-social2 li{
+		margin-bottom:10px;
+	}
+	.thumb-caption h4 a{
+		 font-size:15px;
+	}
+	.thumb-caption-overlay {
+		bottom: -82.7%;
+	}
+	.tns-classes:hover .thumb-caption-overlay {
+		bottom: -20px;
+	}
+	.spb-hd-banner{
+		float:right;
+	}
+	.spb-logo{
+		padding:14px 0px;
+	}
+}
+
+/*============ Media 991Px Start ============ */
+@media (min-width: 768px) and (max-width: 991px) {
+	/* Header */
+	.nav4 .dl-menuwrapper {
+		display: block;
+		margin:10px 0px;
+	}
+	.social-style3 li a{
+		height:44px;
+		width:35px;
+	}
+	.social-style3{
+		padding:0px 20px;
+	}
+	.login-wraper3{
+		margin-right:26px;
+	}
+	.kode_nave,
+	.spb-ticker.spb-ticker2{
+		display:none;
+	}
+	.logo-3{
+		left:250px;
+		top:10px;
+		width:25%;
+		margin-bottom:10px;
+	}
+	.ticket-wrap{
+		padding:25px 0px;
+	}
+	.ticket-wrap{
+		float:left;
+	}
+	.flexslider .slides img {
+		height: 620px;
+	}
+	.football-caption h4{
+		font-size:56px;
+	}
+	.football-caption h6{
+		font-size:30px;
+	}
+	.football-caption h5{
+		font-size:40px;
+	}
+	.ftb_goal_fig > img {
+		width: 100%;
+	}
+	.ftb_goal_tab_detail li a{
+		width:230px;
+		font-size:16px;
+	}
+	.ftb_goal_tabs{
+		margin-bottom:20px;
+	}
+	.ftb_goal_caption.margin_0,
+	.ftb_goal_caption{
+		margin-bottom:20px;
+	}
+	.ftb-result-logo span{
+		padding:16px 29px 17px 35px;
+		font-size:16px;
+	}
+	.ftb-result2 .ftb-result-logo span{
+		right:-32px;
+	}
+	.ftb-result1 .text{
+		padding:0 20px 0 10px;
+	}
+	.ftb-tabs-wrap .nav-tabs li a{
+		min-width:207px;
+	}
+	.ftb-tabs-wrap .nav-tabs li{
+		margin:0 10px 0 0;
+	}
+	.compitatev-team1 > a,
+	.ftb-main-table .ftb-venue{
+		display:none;
+	}
+	
+	.hire{
+		padding:15px 25px;
+	}
+	.ftb-gallery figcaption h4{
+		font-size:13px;
+		line-height:13px;
+		margin-bottom:12px;
+	}
+	.ftb-counterup .counterup-dec p{
+		font-size:13px;
+		line-height:20px;
+	}
+	.ftb-latestnew{
+		margin-bottom:30px;
+	}
+	.spb-popular-dec .spb-meta2{
+		float:left;
+	}
+	.nav4 .dl-menu.dl-menuopen {
+		background-color: #333;
+		position: absolute;
+		right: 100%;
+		width: 220px;
+	}
+	.nav4 .dl-menu.dl-menuopen li a{
+		display:block;
+		text-transform:uppercase;
+		font-size:14px;
+	}
+	/*404 page*/
+	.kode_404_wraper{
+		height:964px;
+	}
+	.kode_404_text form{
+		margin:auto auto 130px;
+	}
+	.kode_404_wraper:before{
+		border-width:197px 771px 1px 0;
+	}
+	/*404 02 page*/
+	.kode_404_text.text_2 p{
+		position:relative;
+	}
+	.kode_404_text.text_2 form {
+		margin-bottom: 70px;
+	}
+	/*404 03 page*/
+	.kode_404_text.text_3 h2 span{
+		font-size:350px;
+	}
+	.kode_404_wraper.wrap_3,
+	.kode-football .kode-wrapper.wrap_2{
+		height:1130px;
+	}
+	/*about us page*/
+
+	.kode_benner1{
+		z-index:-1;
+	}
+	.kode_about_mission_text{
+		padding:132px 24px 140px;
+	}
+	.kode_about_history:before{
+		border:none;
+	}
+	.kode_history_winner{
+		text-align:center;
+	}
+	.kode_history_winner li{
+		float:left;
+		width:50%;
+		display:inline-block;
+	}
+	.kode_history_winner li span{
+		float:none;
+		margin-bottom:20px;
+		display:inline-block;
+	}
+	.kode_history_winner li a{
+		display:block;
+	}
+	.ftb-counterup.counter_2  .counterup-dec{
+		margin-bottom:20px;
+	}
+	/*blog 2 page*/
+	.kode_blog_fig {
+		margin-bottom: 50px;
+	}
+	/*blog detail page*/
+	.kode_detail_quote p:before{
+		top:96px;
+		right:10px;
+	}
+	.kode_detail_comment_text a{
+		right:113px;
+	}
+	.kode_detail_comment_text.comment_2 a {
+		right: 67px;
+	}
+	 .kode_detail_categories.flicker.macth.find .kode_detail_find_fig li:nth-child(4),
+	.kode_detail_categories.flicker.macth.find .kode_detail_find_fig li{
+		margin-right:10px;
+	}
+	.kode_detail_field{
+		width:47%;
+	}
+	.kode_detail_form > form{
+		margin-bottom:30px;
+	}
+	/*cooming soon page*/
+	.kode_404_text.coming_soon h3{
+		font-size:50px;
+	}
+	.kode-wrapper.wrap_2.wrap_4{
+		height:910px;
+	}
+	/*fixture page*/
+	.ftb-result1 .text.text_2 {
+		padding: 0 32px 0 0;
+	}
+	.ftb-result1.ftb-result2 .text.text_2{
+		padding:0 0 0 27px;
+	}
+	.ftb-team-thumb:hover{
+		border-bottom:none;
+	}
+	.ftb-team-thumb:hover .ftb-team-dec.dec_2{
+		border-bottom:1px solid #fff;
+	}
+	.ftb-team-thumb.thumb_2{
+		left:180px;
+	}
+	.kode_ply_galery_list li{
+		width:23%;
+	}
+	.kode_video_fig{
+		margin-bottom:30px;
+	}
+	.kode_player_fig.fig_2{
+		margin-bottom:30px;
+	}
+	.kode_ply_galery_list.list_2 li{
+		width:30.3%;
+	}
+	.kode_ply_caption{
+		margin-bottom:10px;
+	}
+	.kode_ticket_text .ticket_title h2{
+		font-size:16px;
+	}
+	.kode_satnderd_text{
+		width:26%;
+	}
+	.kode_standerd_title h4{
+		font-size:14px;
+	}
+	.kode_standerd_doller{
+		margin-right:75px;
+	}
+	.demoHeaders {
+		display: none !important;
+	}
+	.kode_ticket_list li:hover .ticket_title span{
+		color:#fff;
+		transition:all 0.3s ease-in-out;
+	}
+	.ftb-team-thumb figure img{
+		width:100%;
+	}
+	.kode_blog_pagination{
+		margin-bottom:30px;
+	}
+	.ftb-item figure img{
+		width:100%;
+	}
+	
+	/*tennis home page*/
+	.tns-blog-wrap,
+	.tns-team,
+	.tns-gallery2,
+	.tns-classes{
+		width:48%;
+		float:left;
+		margin:0 7px 20px;
+	}
+	.thumb-caption-overlay {
+		bottom: -34.7%;
+	}
+	.kode-content .aside .widget{
+		float:left;
+		width:100%;
+	}
+	.widget.tsn-widget.tsn-contact{
+		float:left;
+		width:100%;
+		margin-bottom:20px;
+	}
+	.widget.tns-text-widget {
+		float: left;
+	}
+	.login-wrap .dropdown-menu{
+		left:-70px;
+	}
+	.tns-event {
+		float: left;
+		margin: 0 7px 20px;
+		width: 48%;
+	}
+	.counterup-dec{
+		width:25%;
+	}
+	.crkt-logo{
+		margin:0px;
+	}
+	.crkt-navigation li{
+		margin:0px;
+	}
+	.tennis-logo a img {
+		float: left;
+		width: 69%;
+	}
+	.spb-latest-news2 .text h5 a{
+		font-size:12px;
+	}
+	.spb-btn2{
+		padding:4px 13px 5px;
+	}
+	.widget-instagram ul li{
+		width:13%;
+	}
+	.crkt-navigation{
+		display:none;
+	}
+	.logo-wrap .dl-menuwrapper {
+		float: none;
+		margin: auto !important;
+		padding: 30px 0;
+		text-align: center;
+		width: 0;
+	}
+	.logo-wrap .dl-menu.dl-menuopen {
+		left: 0;
+		position: absolute;
+		top: 70px;
+	}
+	.dl-menuwrapper button {
+		background: #fbc818 none repeat scroll 0 0;
+	}
+	.dl-menu {
+		background-color: #000;
+	}
+	.dl-menuwrapper li a:hover{
+		background-color:#fbc818;
+		transition:all 0.3s ease-in-out; 
+	}
+	.crkt-bnr-caption h4 b,
+	.crkt-bnr-caption h4{
+		font-size:25px;
+	}
+	.crkt-bnr-caption h4 span{
+		line-height:34px;
+	}
+	.crkt-bnr-caption p{
+		margin-bottom:30px;
+	}
+	.crkt-bnr-caption{
+		margin:-143px auto 0 -56px;
+	}
+	.add-caption{
+		padding:182px 26px;
+	}
+	.crkt-fixtures-link{
+		bottom: 0;
+		float: left;
+		left: 22%;
+		padding: 15px 0;
+		position: relative;
+		width: 100%;
+	}
+	.crkt-plyer2 {
+		display: none;
+	}
+	.crkt-fixtures-dec .text{
+		text-align:center;
+	}
+	.crkt-fixtures-dec .text p{
+		float:none;
+	}
+	.crkt-team-dec{
+		padding:40px 78px 33px 0;
+	}
+	.input-dec{
+		text-align:center;
+		margin-bottom:20px;
+	}
+	.input-dec button,
+	.input-dec input[type="text"],
+	.input-dec span{
+		display:inline-block;
+		float:none;
+	}
+	.crkt-social-2{
+		text-align:center;
+	}
+	.crkt-hd3 h4{
+		text-align:center;
+	}
+	.crkt-videos{
+		text-align:center;
+		width:32%;
+	}
+	.crkt-videos .thumb{
+		display:inline-block;
+		float:none;
+		margin-bottom:15px;
+	}
+	.crkt-pagination{
+		top:78px;
+	}
+	.spb-hd-banner{
+		width:46%;
+		padding:19px 0px;
+	}
+	.spb-helpdeck li span, .spb-helpdeck li a{
+		padding:3px 10px 6px;
+	}
+	.spb-topbar .spb-social1 {
+		margin-right: 15px;
+	}
+	.navigation {
+		display: none;
+	}
+	.dl-menuwrapper {
+		display: block;
+	}
+	.spb-nav .dl-menuwrapper {
+		float: left;
+		padding: 7px 0;
+		text-align: center;
+		width: 26%;
+	}
+	.spb-nav  .dl-menu.dl-menuopen {
+		left: 100px;
+		position: absolute;
+	}
+	.spb-nav  .dl-menuwrapper li a:hover {
+		background-color: #ff3c36;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	.dl-menu.dl-menuopen {
+		position: absolute;
+		right: 48px;
+	}
+	.dl-menuwrapper button {
+		background-color:#606060;
+	}
+	.dl-menuwrapper li a:hover{
+		background-color:#eb1a1a;
+		transition:all 0.3s ease-in-out;
+	}
+	.dl-menu.dl-menuopen{
+		background-color:#606060;
+	}
+	.dl-menu.dl-menuopen li{
+		border-bottom:1px solid #ddd;
+	}
+	.tns-event-caption p{
+		float:left;
+	}
+	.tns-blog-caption{
+		text-align:center;
+	}
+	.tns-blog-caption ul{
+		text-align:center;
+	}
+	.tns-blog-caption ul li{
+		display:inline-block;
+		float:none;
+	}
+	.tns-blog-caption > a{
+		display:inline-block;
+		float:none;
+	}
+	.thumb > img {
+		width: 100%;
+	}
+	.tns-testimonial-silder .bx-wrapper .bx-controls-direction a{
+		top: 38%;
+	}
+	.tns-achiv img {
+		width: 100%;
+	}
+	.widget{
+		margin-bottom:20px;
+	}
+	.counterup-dec h3{
+		font-size:17px;
+	}
+	.dl-menuwrapper li a:hover {
+		background-color: #7fae00;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	.tns-gallery [class*="col-md-"]{
+		width:50%;
+	}
+	.tns-achiv {
+		margin-right: 27px;
+		width: 46%;
+	}
+	.spb-meta li a, .spb-meta li span{
+		font-size:11px;
+	}
+	.tennis-nav .dl-menuwrapper .dl-menu.dl-menuopen{
+		position:absolute;
+		left:auto !important;
+		right:0px;
+	}
+	.tennis-nav .dl-menuwrapper {
+		position: absolute;
+		right:0px;
+	}
+	.ad-search {
+		left: -30px;
+		position: relative;
+	  
+	}
+	.weather-widget{
+		padding:0px 0px;
+		width:0px;
+	}
+	.widget-news .spb-latest-news6 .text h6{
+		margin-bottom:15px;
+	}
+ }
+
+/*============ Media 767Px Star ============ */
+@media (max-width: 767px) {
+	.login-wraper3{
+		margin:0px;
+		padding:0px;
+	}
+	.login-wraper3:after, .login-wraper3:before{
+		border-width:0px 0px;
+	}
+	.login-meta li{
+		padding:0 10px;
+	}
+	.login-meta{
+		width:100%;
+	}
+	.social-style3:before,
+	.login-wraper3{
+		background:none;
+	}
+	.login-meta{
+		background-color:#e01a22;
+		text-align:center;
+	}
+	.social-style3{
+		padding:0px;
+		text-align:right;
+		transform:skewX(0deg);
+		margin-top:20px;
+	}
+	.social-style3 li a{
+		transform:skewX(0deg);
+	}
+	.logo-3{
+		top:-49px;
+	}
+	.spb-ticker.spb-ticker2,
+	.nav4 .kode_nave,
+	.ticker-dec{
+		display:none;
+	}
+	.logo-wrap2,
+	.logo-wrap2 .container{
+		height:0px;
+	}
+	.ticket-wrap{
+		float:left;
+		
+	}
+	.logo-3 {
+		top: -59px;
+	}
+	.dl-menuwrapper{
+		display:block;
+		margin:10px 0px;
+	}
+	.flexslider .slides img {
+		height: 440px;
+	}
+	.football-caption h4{
+		display:none;
+	}
+	.football-caption h5{
+		font-size:30px;
+	}
+	.kode-ft-caption{
+		top:80%;
+	}
+	.football-caption h6{
+		font-size:25px;
+		line-height:20px;
+		margin-bottom:12px;
+	}
+	.ftb_goal_fig > img{
+		width:100%;
+	}
+	.ftb_goal_tab_des .col-md-3{
+		padding-left:15px;
+	}
+	.football-caption{
+		padding:30px;
+	}
+	.ftb_goal_tab_detail li a{
+		height:60px;
+		width:147px;
+		font-size:11px;
+	}
+	.ftb_goal_tab_text{
+		margin-bottom:20px;
+	}
+	.ftb_club_stats ul li{
+		width:100%;
+	}
+	.ftb_club_stats ul li:nth-child(7), 
+	.ftb_club_stats ul li:last-child{
+		margin-bottom:15px;
+	}
+	.ftb-final-result,
+	.ftb-result1{
+		width:50%;
+	}
+	.ftb-result-wrap{
+		padding:0px;
+	}
+	.ftb-result-logo span{
+		padding:16px 30px 17px;
+	}
+	.ftb-result1 .text{
+		padding:0 10px 0 40px;
+	}
+	.ftb-tabs-wrap .nav-tabs li a{
+		min-width:67px;
+		padding:15px 14px;
+		font-size:13px;
+	}
+	.ftb-tabs-wrap .nav-tabs li{
+		margin:0 10px 0 0;
+	}
+	.login-wraper3,
+	.pull-right{
+		width:100%;
+		float:left;
+	}
+	.login-meta li{
+		display:inline-block;
+		float:none;
+	}
+	.compitatev-team1{
+		display:none;
+	}
+	.ftb-item figure img{
+		width:100%;
+	}
+	.hire{
+		font-size:14px;
+		line-height:17px;
+		padding:10px 26px;
+	}
+	.ftb-main-table li > div{
+		padding:0 15px;
+	}
+	.ftb-compitatev span{
+		height:60px;
+		font-size:32px;
+		width:70px;
+		line-height:60px;
+	}
+	.ftb-gallery figcaption h4{
+		display:none;
+	}
+	.ftb-gallery ul li{
+		width:50%;
+	}
+	.ftb-gallery figcaption{
+		margin-top:-24px;
+	}
+	.ftb-counterup .col-md-3.col-sm-3{
+		float:left;
+		width:50%;
+		margin-bottom:30px;
+	}
+	.ftb-counterup .counterup-dec p{
+		font-size:13px;
+	}
+	.ftb-item,
+	.ftb-team-thumb {
+		float: left;
+		width: 48%;
+		margin-right:9px;
+	}
+	.ftb-new-dec h4{
+		font-size:17px;
+	}
+	.ftb-new-dec{
+		margin-bottom:30px;
+	}
+	.sbp-ftnav{
+		text-align:center;
+		width:100%;
+	}
+	.sbp-ftnav li{
+		display:inline-block;
+		float:none;
+	}
+	.spb-copyright p,
+	.spb-copyright{
+		text-align:center;
+	}
+	.ftb_goal_caption.margin_0{
+		margin-bottom:20px;
+	}
+	.nav4 .dl-menu.dl-menuopen {
+		background-color: #333;
+		position: absolute;
+		right: 0;
+		width: 220px;
+	}
+	.nav4 .dl-menu.dl-menuopen li a{
+		display:block;
+		text-transform:uppercase;
+		font-size:14px;
+	}
+	.spb-meta2 {
+		float: left;
+	}
+	/*404 page*/
+	.kode_404_text h2{
+		font-size:252px;
+		line-height:273px;
+	}
+	.kode_404_text h5{
+		margin-bottom:50px;
+		font-size:13px;
+	}
+	.kode_404_wraper{
+		height:815px;
+	}
+	.kode_404_text form {
+		margin: auto auto 103px;
+		width: 417px;
+	}
+	.kode_404_wraper:before{
+		border-width:168px 474px 1px 0;
+	}
+	.kode_404_social{
+		right:14px;
+		bottom:30px;
+	}
+	/*404 02 page*/
+	.kode_404_wraper.wrp_2{
+		height:930px;
+	}
+	.kode_404_text.text_2 img{
+		width:30%;
+	}
+	.kode_404_text h2 span {
+		font-size: 223px;
+		line-height: 184px;
+		top: 29px;
+	}
+	/*404 03 page*/
+	.kode_404_text.text_3 h2 span{
+		font-size:200px;
+		line-height:200px;
+		top:49px;
+	}
+	.kode_404_wraper.wrap_3,
+	.kode-football .kode-wrapper.wrap_2{
+		height:1000px;
+	}
+	.kode_404_text.text_3 img{
+		width:40%;
+	}
+	.kode_404_text.text_3 > a {
+		margin-bottom: 80px;
+		width: 370px;
+	}
+	.kode_404_text.text_3 h2 {
+		font-size: 148px;
+		margin-bottom: 70px;
+		line-height:150px;
+	}
+	/*about us page*/
+	.kode_benner1.bamnner2{
+		z-index:-1;
+	}
+
+	.kode_club_hdg h2{
+		font-size:23px;
+	}
+	.kode_club_training ul li a {
+		font-size: 12px;
+		padding-left:18px;
+	}
+	.kode_about_mission_text {
+		padding: 132px 15px 140px;
+		width: 100%;
+	}
+	.kode_about_history:before{
+		border:none;
+	}
+	.ftb-counterup.counter_2  .counterup-dec{
+		margin-bottom:20px;
+	}
+	.kode_about_awards_fig{
+		margin-bottom:10px;
+	}
+	/*blog page*/
+	.kode_benner1{
+		z-index:-1;
+	}
+	/*blog 2 page*/
+	.kode_blog_text.text_2 {
+		padding: 0 15px 0 0;
+		text-align: center;
+		width: 100%;
+		margin-bottom:30px;
+	}
+	.kode_blog_fig .kode_blog2_thumb{
+		width:100%;
+		margin-bottom:30px;
+	}
+	/*blog detail page*/
+	.kode_detail_title h2{
+		font-size:18px;
+	}
+	.kode_detail_quote p:before{
+		right: 190px;
+		top: 150px;
+	}
+	.kode_blog_caption {
+		float: left;
+		padding-left: 0;
+		text-align: center;
+		width: 100%;
+	}
+
+	.kode_blog_date {
+		text-align: center;
+		width: 100%;
+		margin-bottom:10px;
+	}
+	.kode_blog_des .kode_blog_caption h5{
+		font-size:14px;
+	}
+	.kode_blog_comment ul{
+		display:none;
+	}
+	.kode_detail_comment_text a {
+		right: 23px;
+		top: 13px;
+	}
+	.kode_detail_comment_text.comment_2 a {
+		right: 17px;
+		top: 10px;
+	}
+	.kode_blog_comment{
+		text-align:center;
+	}
+	.kode_blog_comment > a{
+		float:none;
+		text-align:center;
+		display:inline-block;
+	}
+	.kode_detail_field{
+		width:46%;
+	}
+	.kode_detail_form  form{
+		margin-bottom:30px;
+	}
+	.kode_detail_categories.flicker.macth.find .kode_detail_find_fig li:nth-child(4),
+	.kode_detail_categories.flicker.macth.find .kode_detail_find_fig li{
+		margin-right:15px;
+		margin-bottom:10px;
+	}
+	/*blog sidebar page*/
+	.kode_blog_pagination.pagi_2{
+		margin-bottom:30px;
+	}
+	.kode_404_text.coming_soon h3{
+		font-size:30px;
+	}
+	/*content us page*/
+	.kode_contact_office_list{
+		margin-bottom:30px;
+	}
+	.kode_contect_office .col-md-4 {
+		padding: 0 15px;
+	}
+	/*fixture page*/
+	.ftb-final-result, .ftb-result1{
+		padding-left:10px;
+	}
+	.ftb-result1 .text.text_2 {
+		padding: 0 38px 0 0;
+	}
+	.ftb-result-logo span {
+		padding: 16px 32px 17px;
+		font-size:16px;
+	}
+	.ftb-result1.ftb-result2 .text.text_2{
+		padding:0 0 0 37px;
+	}
+	.ftb-result-logo{
+		margin-bottom:15px;
+	}
+	.ftb-result1.ftb-result2{
+		float: right;
+		position: relative;
+		top: 20px;
+	}
+	.kode_blog_pagination{
+		margin-bottom:30px;
+	}
+	.ftb-main-table .ftb-date.date_2 p{
+		font-size:13px;
+	}
+	/*our team page*/
+	.ftb-team-thumb:hover .ftb-team-dec.dec_2{
+		border-bottom:1px solid #fff;
+	}
+	.ftb-team-thumb.thumb_2{
+		left:130px;
+	}
+	/*single player page*/
+	.kode_ply_galery_list li{
+		width:22%;
+	}
+	.kode_player_fig{
+		margin-bottom:20px;
+	}
+	.kode_video_fig{
+		margin-bottom:20px;
+	}
+	.kode_ply_first th{
+		font-size:11px;
+	}
+	.kode_ply_table .kode_ply_first> th:nth-child(2),
+	.kode_ply_table .kode_ply_first > th:nth-child(3),
+	.kode_ply_table .kode_ply_two > td:nth-child(2),
+	.kode_ply_table .kode_ply_two > td:nth-child(3){
+		display:none;
+	}
+	.kode_ply_galery_list.list_2 li{
+		width:29.3%;
+	}
+	.kode_ticket_list {
+		text-align: center;
+	}
+	.kode_ticket_list li > span{
+		float:none;
+		display:inline-block;
+		margin-bottom:10px;
+	}
+	.kode_ticket_text{
+		padding:0px;
+	}
+	.kode_ticket_text .ticket_title h2{
+		font-size:21px;
+	}
+	.kode_ticket_text {
+		padding: 10px 0;
+		width: 100%;
+	}
+	.kode_ticket_list li:hover .ticket_title span{
+		color:#fff;
+	}
+	.kode_standerd_date .full-right {
+		display: none;
+	}
+	.kode_stand_btn,
+	.kode_standerd_select .demoHeaders,
+	.kode_standerd_title > p {
+		display: none;
+	}
+	.kode_ticket_standerd_detail ul li{
+		padding:20px 30px;
+	}
+	.kode_satnderd_text{
+		width:35%
+	}
+	.kode_standerd_doller{
+		font-size: 22px;
+		margin-right: 40px;
+		position: relative;
+		top: 10px;;
+	}
+	.kode_standerd_select {
+		float: right;
+		padding: 10px 0;
+	}
+	.kode_ply_caption{
+		margin-bottom:20px;
+		text-align:center;
+	}
+	.ticket_btn{
+		float:left;
+		width:100%;
+		text-align:center;
+	}
+	.ftb-team-thumb figure img {
+		display: inline-block;
+		width: 100%;
+	}
+	.kode_detail_btn {
+		text-align: center;
+	}
+	
+	
+	
+	
+	/*tennis home page*/
+	.kode-tennis section{
+		padding:70px 30px;
+	}
+	.counterup-dec h3{
+		font-size:20px;
+	}
+	.countdown.count_2{
+		text-align:center;
+	}
+	.tns-countdown .countdown.count_2 li{
+		display:inline-block;
+		float:none;
+		width:70px; 
+	}
+	.logo-wrap .navigation {
+		display: none;
+	}
+	.tns-gallery [class*="col-md-"] {
+		width: 100%;
+	}
+	.crkt-topbar li a{
+		padding:12px 15px 15px;
+		font-size:12px;
+	}
+	
+	.tns-achiv {
+		margin-right: 15px;
+		width: 46%;
+	}
+	.crkt-topbar{
+		padding:0px 20px;
+	}
+	.pull-left{
+		float:left;
+		width:50%;
+	}
+	.crkt-search-wrap{
+		 float:left;
+		 width:50%;
+	}
+	.crkt-topbar li a i {
+		margin-left: 10px;
+	}
+	.dl-menuwrapper{
+		width:36%;
+	}
+	.crkt-bnr-caption {
+		margin: -97px auto 0 -56px;
+	}
+	.crkt-bnr-caption.container > p {
+		display: none;
+	}
+	.crkt-bnr-caption h4{
+		padding:0px;
+	}
+	.crkt-bnr-caption h4:after,
+	.crkt-bnr-caption h4:before{
+		background-color:transparent;
+	}
+	.crkt-btn1{
+		padding:12px 15px;
+	}
+	.crkt-bnr-caption {
+		margin: -76px auto 0 6px;
+	}
+	.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto{
+		bottom:-47px;
+	}
+	.crkt-news .thumb{
+		width:100%;
+	}
+	.crkt-news .text {
+		width: 100%;
+	}
+	.crkt-news{
+		margin-bottom:20px;
+		border-top:1px solid #ddd;
+	}
+	.crkt-event .text{
+		padding:0 0 0 25px;
+	}
+	.add-caption {
+		padding: 88px 26px;
+	}
+	.crkt-pagination {
+		position: absolute;
+		right: 10px;
+		top: 60px;
+	}
+	.crkt-daterange h4{
+		margin-bottom:10px;
+	}
+	.crkt-dropdown .dropdown button{
+		padding:13px 16px;
+	}
+	.crkt-dropdown .dropdown{
+		margin-right:5px:
+	}
+	.crkt-fixtures-link a:first-child{
+		margin-bottom:10px;
+	}
+	.crkt-team-categories {
+		float: left;
+		margin-bottom: 30px;
+		text-align: center;
+		width: 100%;
+	}
+	.crkt-plyer1 {
+		display: none;
+	}
+	.crkt-more{
+		text-align:center;
+		float:none;
+		display:inline-block;
+	}
+	.input-dec input[type="text"]{
+		padding:10px 15px 9px;
+		width:170px;
+	}
+	.input-dec button{
+		padding:13px 21px 11px;
+		font-size:13px;
+	}
+	.crkt-videos{
+		text-align:center;
+		width:32%;
+	}
+	.crkt-videos .thumb{
+		display:inline-block;
+		float:none;
+		margin-bottom:20px;
+	}
+	.crkt-hd3 h4{
+		text-align:center;
+	}
+	.crkt-videos .text h4{
+		font-size:18px;
+		margin-bottom:10px;
+	}
+	.crkt-videos .text p{
+		margin:0 0 10px;
+	}
+	.widget-crktgallery ul li{
+		width:31%;
+	}
+	.dl-menu.dl-menuopen {
+		left: 44%;
+		position: absolute;
+		top: 70%;
+	}
+	.pull-left {
+		margin: auto;
+		text-align: center;
+		width: 100%;
+	}
+	.spb-helpdeck li {
+		display: inline-block;
+		float:none;
+	}
+	.weather-widget {
+		width: 100%;
+		padding:15px 0px;
+	}
+	.spb-hd-banner{
+		padding:33px 0;
+	}
+	.spb-latest-news2 .thumb {
+		text-align: center;
+		width: 100%;
+	}
+	.text > h5 {
+		font-size: 12px;
+	}
+	.spb-latest-news2 .text h5 a{
+		font-size:12px;
+	}
+	.spb-btn2{
+		padding:3px 13px 5px;
+	}
+	.spb-latest-news5 .text h5 a {
+		font-size: 14px;
+	}
+	.sbp-ftnav {
+		text-align: center;
+		width: 100%;
+	}
+	.nav-thumb-caption h6 a{
+		line-height:22px;
+	}
+	.ticker-dec span{
+		float:left;
+		margin-top:10px;
+	}
+	.kode-sp-new h6 {
+		font-size: 14px;
+	}
+	
+	.sbp-ftnav > li {
+		display: inline-block;
+		float: none;
+	}
+	.spb-copyright p {
+		display: inline-block;
+		float: left;
+		text-align: center;
+		width: 100%;
+	}
+	.lable-1{
+		display:none;
+	}
+	.thumb-right > h6,
+	.thumb-left > h6 {
+		display: none;
+	}
+	.tns-countdown .countdown li {
+		margin-bottom: 15px;
+		width: 43%;
+	}
+	.tns-countdown-wrap h5{
+		font-size:18px;
+	}
+	.tns-heading1 h4 {
+		font-size: 28px;
+	}
+	.tns-event-caption{
+		text-align:center;
+	}
+	.tns-event-caption a{
+		display:inline-block;
+		float:none;
+	}
+	.tns-event-caption h4 a {
+		font-size: 15px;
+		margin-bottom: 10px;
+	}
+	.social-wrap{
+		float:left;
+		width:100%;
+		text-align:center;
+	}
+	.login-wrap li,
+	.social-wrap li{
+		float:none;
+		display:inline-block;
+	}
+	.login-wrap {
+		float:left;
+		width: 100%;
+		text-align:center;
+	}
+	.tennis-logo a img {
+		width: 65%;
+	}
+	.text-caption span{
+		line-height:30px;
+		font-size:30px;
+	}
+	.text-caption{
+		margin:-83px auto 0;
+	}
+	.text-caption p{
+		margin-bottom:10px;
+	}
+	.text-caption a{
+		padding:12px 31px;
+	}
+	.tns-midbar h6{
+		font-size:35px;
+	}
+	.counterup-dec {
+		float: left;
+		margin-bottom: 20px;
+		width: 50%;
+	}
+	.bx-controls-direction {
+		display: none;
+	}
+	.dl-menuwrapper {
+		width: 73%;
+	}
+	.dl-menuwrapper{
+		padding:28px 0px;
+	}
+	.dl-menuwrapper li a:hover {
+		background-color: #7fae00;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	.spb-nav .dl-menu.dl-menuopen {
+		left: 0;
+		position: absolute;
+		top: 85%;
+	}
+	.spb-hd-banner {
+		padding: 10px 0;
+	}
+	.spb-logo-wrap{
+		padding:30px 0px 10px;
+	}
+	.spb-logo {
+		padding: 3px 0;
+		position: relative;
+		top: 0px;
+		width: 50%;
+	}
+	.spb-nav .dl-menuwrapper{
+		width:0px;
+	}
+	.tns-copyright span {
+		display: inline-block;
+		float: none;
+		text-align: center;
+		width: 100%;
+		margin-bottom:10px;
+	}
+	.tns-copyright p{
+		display: inline-block;
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+	.spb-meta li span{
+		font-size:9px;
+	}
+	.spb-meta li span,
+	.spb-nav .navigation{
+		display:none !important;
+	}
+	.widget-instagram ul{
+		text-align:center;
+	}
+	.spb-meta2 li,
+	.widget-instagram ul li{
+		display:inline-block;
+		float:none;
+		margin-left: 8px;
+	}
+	.spb-latest-news .text h5 a{
+		display:inline-block;
+		float:none;
+	}
+	.kode-content .aside .widget{
+		float:left;
+		width:100%;
+	}
+	.spb-latest-news3 .text{
+		text-align:center;
+	}
+	.tennis-nav .dl-menuwrapper .dl-menu.dl-menuopen{
+		position:absolute;
+		left:auto !important;
+		right:0px;
+		background-color:#333;
+	}
+	.tennis-nav   .dl-menuwrapper {
+		position: absolute;
+		right:auto;
+		width:0px;
+		margin:0px 0px;
+	}
+	.ad-search {
+		left: -160px;
+		position: relative;
+	}
+	.tennis-nav {
+		left: 77px;
+		position: relative;
+	}
+	.nav4.nav5 .dl-menuwrapper {
+		padding: 0;
+		position: absolute;
+		right: 0;
+		width: 90px;
+	}
+	.nav4.nav5 .dl-menu.dl-menuopen {
+		left: auto !important;
+		position: absolute;
+		right: 100% !important;
+	}
+	
+}
+
+/*============	Media 480Px Start ============ */
+@media (max-width: 480px){
+	.login-wraper3 .social-style3{
+		opacity:0;
+		margin-top:30px;
+	}
+	.kode_detail_btn {
+		text-align: center;
+	}
+	.logo-wrap2  .logo-3 {
+		left: 25px;
+		top: -57px;
+	}
+	.login-meta li{
+		margin-bottom:10px;
+	}
+	.kode_ply_caption{
+		margin-bottom:20px;
+		text-align:center;
+	}
+	.football-caption{
+		padding:20px 40px;
+	}
+	.kode-ft-caption p a:before{
+		border-width:0px 0px;
+	}
+	.football-caption h5 {
+		font-size: 15px;
+		line-height:20px;
+	}
+	.kode_standerd_title h4{
+		font-size:14px;
+	}
+	.kode_satnderd_text {
+		width: 57%;
+	}
+	.kode_standerd_title {
+		padding-left: 10px;
+		position: relative;
+		top: 18px;
+	}
+	.kode_standerd_select .ui-spinner-input{
+		width:110px;
+	}
+	.football-caption h6 {
+		font-size: 15px;
+		line-height: 15px;
+		margin-bottom: 8px;
+	}
+	.btn-4,
+	.kode-ft-caption.text-left p a {
+		padding: 10px 10px 10px 20px;
+	}
+	.kode-ft-caption {
+		top: 90%;
+	}
+	.heading5{
+		margin-bottom:30px;
+	}
+	.heading5 h4{
+		font-size:22px;
+		line-height:20px;
+	}
+	.ftb_goal_tab_detail li {
+		margin-bottom:10px
+	}
+	.ftb_goal_tab_detail li a{
+		width:287px;
+		font-size:16px;
+	}
+	.ftb_goal_tab_detail li{
+		float:none;
+		display:inline-block;
+	}
+	.ftb_goal_tab_detail{
+		text-align:center;
+	}
+	.ftb_club_stats ul li a{
+		font-size:13px;
+	}
+	.ftb-final-result, .ftb-result1{
+		width:100%;
+	}
+	.ftb-final-result{
+		padding:30px 0px;
+	}
+	.ftb-post-thumb .text{
+		 display:none;
+	}
+	.ftb-tabs-wrap .nav-tabs li{
+		width:100%;
+		margin:0px;
+	}
+	.ftb-tabs-wrap .nav-tabs li a{
+		width:100%;
+		font-size:16px;
+		margin-bottom:15px;
+	}
+	.ftb-main-table .ftb-venue {
+		display: none !important;
+	}
+	.hire{
+		padding:10px 20px;
+	}
+	.ftb-gallery ul li{
+		width:100%;
+		margin-bottom:20px;
+	}
+	.ftb-counterup .counterup-dec p {
+		font-size: 11px;
+		line-height: 23px;
+	}
+	.ftb-team-thumb{
+		width:100%;
+		margin:0px;
+		margin-bottom:20px;
+	}
+	.ftb-new-dec{
+		padding:30px 0px;
+		text-align:center;
+	}
+	.ftb-new-dec span{
+		width:100%;
+		padding:0px;
+		margin-bottom:20px;		
+	}
+	.ftb-new-dec .text{
+		float:left;
+		padding:0px 5px;
+		width:100%;
+	}
+	.ftb-new-dec .text ul{
+		display:none;
+	}
+	.ftb-latestnew2 figure{
+		float:none;
+		width:100%;
+		text-align:center;
+		margin-bottom:20px;
+	}
+	.ftb-latestnew2 figure img{
+		width:100%;
+	}
+	.ftb-item, .ftb-team-thumb {
+		float: left;
+		margin-right:0px;
+		width: 100%;
+	}
+	.spb-popular-dec .spb-meta2 li a{
+		font-size:12px;
+	}
+	.spb-popular-dec .spb-meta2 li{
+		margin-right:10px;
+	}
+	.ftb_goal_caption.margin_0{
+		margin-bottom:20px;
+	}
+	/*404 page*/
+	.kode_404_text h2 {
+		font-size: 152px;
+		line-height: 152px;
+	}
+	.kode_404_text h2 span {
+		line-height: 214px;
+		top: 22px;
+	}
+	.kode_404_text h5 {
+		font-size: 13px;
+		line-height: 30px;
+	}
+	.kode_404_text form {
+		margin: auto auto 90px;
+		width: 287px;
+	}
+	.kode_4043_icon li a, .kode_404_social li a {
+		font-size: 14px;
+		height: 32px;
+		line-height: 31px;
+		width: 32px;
+	}
+	.kode_404_wraper::before {
+		border-width: 158px 324px 1px 0;
+	}
+	/*404 02 page*/
+	.kode_404_wraper.wrp_2{
+		height:800px;
+	}
+	.kode_404_text h2 span {
+		font-size: 150px;
+		line-height: 176px;
+		top: 22px;
+	}
+	.kode_404_text.text_2 h2{
+		margin-bottom:50px;
+	}
+	.kode_404_text.text_2 form {
+		margin-bottom: 40px;
+	}
+	.kode_404_text.text_2 p{
+		position:relative;
+	}
+	/*404 03 page*/
+	.kode_404_text.text_3 h2 span {
+		font-size: 140px;
+		line-height: 140px;
+		top: 29px;
+	}
+	.kode_404_wraper.wrap_3,
+	.kode-football .kode-wrapper.wrap_2{
+		height:1047px;
+	}
+	.kode_404_text.text_3 img{
+		width:40%;
+	}
+	.kode_404_text.text_3 > a{
+		margin-bottom: 50px;
+		width: 280px;
+	}
+	.kode_404_text.text_3 h2 {
+		font-size: 148px;
+		margin-bottom: 70px;
+		line-height:150px;
+	}
+	/*about us page*/
+
+	.kode_club_training ul li{
+		width:100%;
+		margin:0px;
+		margin-bottom:15px;
+	}
+	.kode_history_winner li span{
+		margin-right:15px;
+	}
+	.kode_history_winner li a{
+		font-size:13px;
+	}
+	.kode_about_award .col-md-3.col-sm-6.col-xs-6{
+		width:100%;
+	}
+	.kode_about_mission_text {
+		padding: 80px 15px;
+	}
+	/*blog page*/
+	.kode_blog_caption h5{
+		font-size:17px;
+	}
+	.kode_blog_pagination a{
+		margin-right:4px;
+	}
+	 .kode_blog_pagination .left {
+		margin-right: 5px;
+	}
+	.kode_blog_pagination .right{
+		margin-left:4px;
+	}
+	.kode_blog_text.text_2.text_3{
+		padding:0px;
+	}
+	/*blog detail page*/
+	.kode_detail_caption,
+	.kode_detail_text,
+	.kode_detail_admin{
+		text-align:center;
+	}
+	.kode_detail_admin span{
+		float:none;
+		margin-bottom:20px;
+	}
+	.kode_detail_title ul{
+		margin-bottom:15px;
+	}
+	.kode_detail_quote{
+		text-align:center;
+		padding:20px 20px;
+	}
+	.kode_detail_quote p{
+		margin-bottom:30px;
+	}
+	.kode_detail_quote p::before{
+		content:"";
+	}
+	.kode_detail_share{
+		text-align:center;
+		width:100%;
+	}
+	.kode_detail_share li{
+		float:none;
+		display:inline-block;
+	}
+
+	.kode_blog_fig.fig_2{
+		margin-right:6px;
+	}
+	.kode_detail_comment_list.list_2 {
+		float: left;
+		text-align: center;
+		width: 100%;
+	}
+	.kode_detail_comment_list figure, 
+	.kode_detail_comment_list figure img{
+		float:none;
+		display:inline-block;
+		margin-bottom:15px;
+	}
+	.kode_detail_comment_text{
+		padding:0px 0px;
+	}
+	.kode_detail_comment_text h5{
+		margin-right:0px;
+		margin-bottom:10px;
+		display:block;
+	}
+	.kode_detail_comment_text a {
+		right: 13px;
+		top: 3px;
+	}
+	.kode_detail_cols ul ul{
+		padding-left:0px;
+		text-align:center;
+	}
+	.kode_detail_comment_text.comment_2 a {
+		right: 2px;
+		top: 1px;
+	}
+	.kode_detail_comment_list{
+		text-align:center;
+	}
+	.kode_detail_field{
+		width:100%;
+		margin-right:0px;
+	}
+	.kode_detail_btn button{
+		width:130px;
+	}
+	.countdown li span{
+		font-size:40px;
+	}
+	.kode_404_text.coming_soon form input[type="text"]::-moz-input-placeholder{
+		color:#fff;
+	}
+	.kode_404_text.coming_soon form input[type="text"]::-webkit-input-placeholder{
+		color:#fff;
+	}
+	.kode-wrapper.wrap_2.wrap_4{
+		height:900px;
+	}
+	.kode_404_text.coming_soon p{
+		font-size:15px;
+	}
+	/*content us page*/
+	.kode_contact_office_list h2{
+		font-size:21px;
+	}
+	.kode_contant_area button{
+		margin-right:4px;
+	}
+	/*fixture page*/
+	.ftb-main-table .ftb-date.date_2 {
+		padding: 25px 13px;
+	}
+	.ftb-compitatev.tev_2 span{
+		padding-right:12px;
+	}
+	.ftb-result1.ftb-result2 .text.text_2 {
+		padding: 0 0 0 87px;
+	}
+	/*our team page*/
+	.ftb-team-thumb.thumb_2 {
+		left: 0;
+	}
+	.kode_ply_galery_list li {
+		width: 100%;
+	}
+	.kode_player_item .col-xs-6{
+		width:100%;
+	}
+	.kode_player_text h6{
+		font-size:10px;
+	}
+	.kode_ply_icon h6{
+		margin-bottom:10px;
+		margin-right:0px;
+		display:block;
+		width:100%;
+	}
+	.kode_ply_table .kode_ply_first> th:nth-child(1),
+	.kode_ply_table .kode_ply_first> th:nth-child(2),
+	.kode_ply_table .kode_ply_first > th:nth-child(3),
+	.kode_ply_table .kode_ply_two > td:nth-child(1),
+	.kode_ply_table .kode_ply_two > td:nth-child(2),
+	.kode_ply_table .kode_ply_two > td:nth-child(3){
+		display:none;
+	}
+	.kode_ply_first th {
+		font-size: 11px;
+		padding: 0 10px;
+	}
+	.kode_ply_galery_list.list_2 li{
+		width:100%;
+	}
+	.kode_ticket_list .ticket_btn{
+		left:-40px;
+	}
+	.ticket_title{
+		padding:10px 0px;
+	}
+	.kode_ticket_standerd_detail ul li {
+		padding: 20px 10px;
+	}
+	.kode_standerd_doller{
+		display:none;
+	}
+	.kode_standerd_select {
+		float: right;
+		padding: 10px 0;
+		width: 42%;
+	}
+	.kode_standerd_date h6{
+		font-size:13px;
+	}
+	.kode_contact_mapp{
+		top:-2px;
+	}
+	.kode_benner1_cols .kf_container{
+		padding:0 20px;
+	}
+	.kode_benner1_cols .kf_container::before{
+		width:76px;
+	}
+	.kode_benner1_cols .kf_container::after{
+		width:76px;
+	}
+	.ftb-counterup.counter_2 .col-md-3.col-sm-6.col-xs-6,
+	.counterup-dec{
+		text-align:center;
+		float:left;
+		width:100%;
+	}
+	.ftb-counterup.counter_2 .counterup-dec{
+		margin-bottom:30px;
+	}
+	.ftb-counterup .col-md-3.col-sm-3{
+		width:100%;
+	}
+	.ftb-counterup .counterup-dec span{
+		float:none;
+		margin:0px;
+		display:inline-block;
+	}
+	.ftb-counterup .counterup-dec h3{
+		margin:5px 0px 9px 0px;
+		text-align:center;
+	}
+	.ftb-counterup .counterup-dec .text{
+		text-align:center;
+	}
+	.ftb-team-thumb figure img{
+		width:100%;
+	}
+	.kode_404_wraper.wrap_3,
+	.kode-wrapper.wrap_2.wrap_3{
+		height:920px;
+	}
+	
+	
+	
+	
+	/*tennis home page*/
+	.pull-left{
+		float:left;
+		width:100%;
+		text-align:center;
+	}
+	.pull-left > ul {
+		width: 100%;
+	}
+	.tns-achiv {
+		margin-right: 8px;
+		width: 100%;
+	}
+	.tns-social2{
+		margin-bottom:20px;
+	}
+	.widget.tsn-widget.tsn-contact {
+		float: left;
+		margin-bottom: 20px;
+	}
+	.tns-copyright p, .tns-copyright span{
+		font-size:13px;
+	}
+	.kode-sp-new h6 {
+		font-size: 12px;
+	}
+	.widget-news .spb-latest-news6 .text{
+		padding:9px 0 8px;
+	}
+	.crkt-topbar li{
+		display:inline-block;
+		float:none;
+	}
+	.crkt-search-wrap{
+		width:100%;
+	}
+	.crkt-search{
+		text-align:center;
+	}
+	.crkt-search input[type="text"]{
+		display:inline-block;
+		text-align:center;
+	}
+	.crkt-logo{
+		width:auto;
+	}
+	.dl-menuwrapper {
+		float: right;
+		text-align: right;
+		width: 59%;
+	}
+	.crkt-social{
+		width:100%;
+		text-align:center;
+	}
+	.crkt-social li{
+		display:inline-block;
+		float:none;
+	}
+	.dl-menu.dl-menuopen {
+		position: absolute;
+		right: 0;
+		top: 68%;
+	}
+	.crkt-bnr-caption h4 b, 
+	.crkt-bnr-caption h4{
+		font-size:16px;
+	}
+	.crkt-links {
+		display: none;
+	}
+	.crkt-bnr-caption h4 span {
+		line-height: 28px;
+	}
+	.crkt-bnr-caption {
+		margin: -37px auto 0 6px;
+	}
+	.current-match li h4{
+		line-height:27px;
+	}
+	.add-caption {
+		padding: 31px 26px;
+	}
+	.crkt-hd3 h4{
+		font-size:22px;
+	}
+	.crkt-event .thumb{
+		width:100%;
+		margin-bottom:20px;
+	}
+	.crkt-event .thumb img{
+		width:100%;
+	}
+	.crkt-event .text {
+		text-align: center;
+		padding:0px;
+		overflow:visible;
+	}
+	.crkt-videos .thumb{
+		width:100%;
+	}
+	.crkt-videos{
+		width:100%;
+	}
+	.crkt-fixtures-hd h4{
+		text-align:center;
+		width:100%;
+		margin-bottom:5px;
+	}
+	.crkt-fixtures-hd .crkt-social-2{
+		width:100%;
+		text-align:center;
+		float:left;
+	}
+	.crkt-fixtures-hd .crkt-social-2 li{
+		display:inline-block;
+		float:none;
+	}
+	.crkt-daterange > h5 {
+		display: none;
+	}
+	.open > .dropdown-menu,
+	.crkt-dropdown .dropdown button,
+	.crkt-dropdown .dropdown{
+		margin-bottom:10px;
+		width:100%;
+	}
+	.crkt-daterange h4{
+		width:100%;
+		text-align:center;
+	}
+	.crkt-fixtures-dec h6{
+		font-size:13px;
+	}
+	.crkt-fixtures-dec .text h4{
+		font-size:18px;
+	}
+	.crkt-fixtures-link{
+		left:0px;
+		text-align:center;
+		width:100%;
+	}
+	.crkt-fixtures-link a{
+		display:inline-block;
+		float:none;
+	}
+	.crkt-fixtures-dec .text p{
+		font-size:14px;
+		margin:0 0 6px;
+	}
+	.crkt-fixtures-dec .text span{
+		line-height:22px;
+	}
+	.crkt-social li a{
+		width:40px;
+	}
+	.post-caption h5{
+		font-size:25px;
+		line-height:32px;
+	}
+	.crkt-slider .bx-wrapper .bx-controls-direction a{
+		top:10px;
+	}
+	.input-dec input[type="text"]{
+		width:166px;
+	}
+	.crkt-social-2 li span{
+		display:none;
+	}
+	.widget-crktgallery ul li{
+		width:30%;
+	}
+	.crkt-copyright{
+		width:100%;
+		text-align:center;
+	}
+	.crkt-copyright span,
+	.crkt-copyright p{
+		width:100%;
+	}
+	.crkt-dropdown{
+		padding-top:50px;
+	}
+	.crkt-pagination {
+		position: absolute;
+		right: 27px;
+		top: 99px;
+	}
+	.dl-menuwrapper {
+		display: block;
+	}
+		.dl-menu.dl-menuopen {
+		left:-100px;
+		position: absolute;
+		top: 68%;
+	}
+	.spb-social1 {
+		float: left;
+		margin: 0;
+		width: 100%;
+		text-align:center;
+	}
+	.spb-user-wrap a,
+	.spb-social1 li {
+		display: inline-block;
+		float: none;
+	}
+	.pull-right {
+		width: 100%;
+	}
+	.spb-topbar .spb-social1 {
+		margin-right:0px;
+	}
+	.spb-user-wrap {
+		float: left;
+		text-align: center;
+		width: 100%;
+	}
+	.spb-logo{
+		width:100%;
+		padding:12px 0px;
+	}
+	.dl-menuwrapper {
+		float: left;
+		text-align: left;
+		width: 14%;
+	}
+	.dl-menu.dl-menuopen{
+		left:0px;
+	}
+	.spb-tabs-nav li {
+		margin: 0 4px 0 0;
+	}
+	.spb-tab-dropdown button, .spb-tabs-nav li a{
+		font-size:12px;
+	}
+	.spb-latest-news .text h5 a {
+		font-size: 14px;
+		line-height: 22px;
+		text-align: center;
+		margin-bottom:10px;
+	}
+	.spb-meta2 li{
+		margin-right:6px;
+		display: inline-block;
+		float:none;
+	}
+	.spb-meta2 {
+		text-align: center;
+	}
+	.spb-btn2 {
+		float: none;
+		left: 0px;
+		position: relative;
+		
+	}
+	.spb-latest-news2 .text {
+		padding: 20px 5px;
+		text-align: center;
+	}
+	.spb-ticker > span {
+		display: inline-block;
+		text-align: center;
+		width: 100%;
+	}
+	.widget-news .spb-latest-news6 .thumb{
+		width:100%;
+	}
+	.widget-news .spb-latest-news6 .text{
+		text-align:center;
+	}
+	.widget-social i{
+		margin-right:7px;
+	}
+	.widget-instagram ul {
+		width:100%;
+		text-align: center;
+	}
+	.widget-instagram ul  li{
+		float:none;
+		display:inline-block;
+	}
+	.spb-latest-news6 .thumb {
+		width: 100%;
+	}
+	.spb-latest-news .text,
+	.spb-latest-news6 .text{
+		text-align:center;
+	}
+	.spb-social2 > li {
+		margin-bottom: 15px;
+	}
+	.login-wrap li{
+		padding:9px 9px 8px;
+	}
+	.text-caption.text-left > p,
+	.text-caption.text-center > p,
+	.text-caption.text-right > p {
+		display: none;
+	}
+	.text-caption span{
+		display:block;
+		font-size:20px;
+	}
+	.text-caption a{
+		font-size:15px;
+		 padding: 6px 23px;
+	}
+	.text-caption {
+		margin: -47px auto 0;
+	}
+	.tns-banner .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager{
+		bottom:10px;
+	}
+	.tns-heading1 h4 {
+		font-size: 20px;
+	}
+	.tns-event-caption h4 a {
+		font-size: 15px;
+	}
+	.tns-event-caption p{
+		font-size:14px;
+	}
+	.tns-fixure-dec{
+		padding:0px;
+	}
+	.thumb-right,
+	.thumb-left {
+		display: none;
+	}
+	.tns-countdown .countdown,
+	.tns-countdown{
+		width:100%;
+	}
+	.tns-countdown .countdown li {
+		display: inline-block;
+		float: none;
+	}
+	ul.tns-tags {
+		margin: -3px 0 20px;
+	}
+	.tns-team-1 {
+		text-align: center;
+		float:left;
+		width:100%;
+	}
+	.tns-team-1 h5,
+	.tns-team-1 > a{
+		display:inline-block;
+		float:none;
+		margin:0px;
+	}
+	.tns-team-1 h5 {
+		padding: 0;
+		position: relative;
+		top: -18px;
+		margin-left:15px;
+	}
+	.tns-tabs-teams span{
+		margin-bottom:15px;
+	}
+	.tns-team-2{
+		margin-bottom:15px;
+	}
+	.tns-midbar h6 {
+		font-size: 22px;
+		margin-bottom:0px;
+	}
+	.tns-blog-caption > p,
+	.tns-midbar p{
+		font-size:14px;
+	}
+	.tns-midbar .hire {
+		margin-bottom: 15px;
+		margin-right: 0;
+	}
+	.tns-blog-caption h4 a{
+		font-size:15px;
+	}
+	.tns-team-caption p {
+		font-size: 15px;
+		line-height: 24px;
+	}
+	.tns-testimonial{
+		padding:0px;
+	}
+	.bx-controls-direction {
+		display: none;
+	}
+	.tns-copyright p,
+	.tns-copyright span{
+		display:inline-block;
+		float:none;
+		margin-bottom:10px;
+		width:100%;
+		text-align:center;
+	}
+	.tennis-logo {
+		display: block;
+	}
+	.thumb-caption-overlay {
+		bottom: -50.7%;
+	}
+	.tns-heading1 span:after,
+	.tns-heading1 span:before{
+		left:-63px;
+		width:69px;
+	}
+	.tns-heading1 span:after{
+		right:-63px;
+		left:auto;
+	}
+	.tns-gallery-caption span,
+	.tns-tabnav li a{
+		font-size:13px;
+	}
+	.kode-tennis section {
+		padding: 70px 10px;
+	}
+	.tns-blog-caption{
+		text-align:center;
+	}
+	.tns-blog-caption > a,
+	.tns-blog-caption ul li{
+		float:none;
+		display:inline-block;
+	}
+	.login-wrap .dropdown button, .login-dec a{
+		font-size:12px;
+	}
+	.pull-right .dropdown-menu{
+		left:-70px;
+	}
+	.login-wrap .open > .dropdown-menu li a{
+		font-size:13px;
+	}
+	.thumb-caption h4 a{
+		font-size:16px;
+	}
+	.dl-menuwrapper{
+		padding:30px 0px;
+	}
+	.dl-menuwrapper li a:hover {
+		background-color: #7fae00;
+		transition: all 0.3s ease-in-out 0s;
+	}
+	.spb-nav .dl-menuwrapper {
+		width: 0;
+	}
+	.spb-meta{
+		width:100%;
+		text-align:center;
+	}
+	.spb-meta li{
+		display:inline-block;
+		float:none;
+	}
+	.widget.widget-instagram img,
+	.widget-instagram ul li {
+		width: 100%;
+	}
+	.sbp-ftnav li {
+		margin-right: 4px;
+		padding: 3px 0;
+	}
+	.logo-wrap .dl-menuwrapper{
+		margin:0px;
+		float:left;
+	}
+	.pull-right .dropdown-menu{
+		position:absolute;
+		text-align:center;
+		right:-15px !important;
+		min-width:136px;
+	}
+	.modal-dialog {
+		width: 306px;
+	}
+	.login-wrap .open > .dropdown-menu li{
+		padding:5px;
+	}
+	.spb-hd-banner{
+		width:100%;
+	}
+	.ad-search {
+		left: -130px;
+		position: relative;
+	}
+	.nav4.nav5 .dl-menuwrapper {
+		width: 40px;
+	}
+}

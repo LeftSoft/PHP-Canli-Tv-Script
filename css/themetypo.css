@@ -1,0 +1,254 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,300);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,700,600,300);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+@import url(https://fonts.googleapis.com/css?family=Andada);
+@import url(https://fonts.googleapis.com/css?family=Raleway:700,400);
+/*
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Andada', serif;
+    font-family: 'Raleway', sans-serif;
+*/
+body {
+    background-color: #ffffff;
+    color: #999;
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+	font-weight:normal;
+}
+/* Global Typography */
+/* Heading Typo */
+h1, h2, h3, h4, h5, h6 {
+    color: #333333;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.2;
+    margin: 0px 0px 0px 0px;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+   color:#333;
+   font-family: 'Raleway', sans-serif;
+}
+
+p a {
+    color: #fff;
+}
+/* Peragraph Typo */
+p{
+    line-height: 26px;
+}
+.kode_history_winner li span,
+.text_widget span a,
+.tennis-nav .navigation li ul li a,
+.counterup-dec h3 b,
+.ftb_club_stats ul li a,
+.book-now,
+.ftb-counterup .counterup-dec h3,
+.kode_404_text h2 span,
+.kode_history_winner li a,
+.nav4 ul li ul li  a,
+.kode_ply_list a,
+.kode_ply_list a span,
+.kode_player_item .kode_ply_titile,
+.kode_standerd_date h6,
+.kode_ticket_sig_fig.fig_2 a,
+.heading5.hdg_5 h4,
+.ftb_tabs_drop h5,
+.kode_contact_txet a{
+	 font-family: 'Open Sans', sans-serif;
+}
+a {
+    color:#333;
+    text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+a:hover, a:focus, a:active {
+    outline: none;
+    text-decoration: none;
+}
+
+ul {
+   margin:0px;
+   padding:0px;
+}
+li {
+    text-decoration:none;
+    list-style: none;
+}
+ul ul {
+    margin:0px;
+	padding:0px;
+}
+ol {
+    float: none;
+    list-style: decimal;
+    padding-left: 15px;
+}
+ol ol {
+    margin-left: 20px;
+}
+ol li {
+	list-style: decimal;
+	width: 100%;
+}
+.text{
+    float: left;
+    width: 100%;
+}
+.thumb,
+figure {
+	float:left;
+	width:100%;
+    position: relative;
+	overflow:hidden;
+}
+
+.clear {
+    clear: both;
+    font-size: 0;
+    line-height: 0;
+}
+figure img{
+	float:left;
+	width:100%;
+}
+img {
+    max-width: 100%;
+}
+
+strong {
+    color: #3d3d3d;
+}
+
+iframe {
+    border: none;
+    float: left;
+    width: 100%;
+}
+/* Form Input Typo */
+select {
+    border: 1px solid #d2d2d2;
+    color: #3d3d3d;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 300;
+    height: 40px;
+    padding: 8px 12px;
+    width: 100%;
+}
+
+label {
+    color: #3d3d3d;
+    display: block;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+button {
+    border: none;
+}
+
+textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    -moz-box-sizing: border-box;
+  	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+    border: 1px solid #dadada;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 16px;
+    outline: none;
+    vertical-align: middle;
+}
+
+form p {
+    float: left;
+    position: relative;
+    width: 100%;
+}
+
+form p span i {
+    color: #474747;
+    left: 16px;
+    position: absolute;
+    top: 13px;
+}
+table {
+    background-color: transparent;
+    max-width: 100%;
+    width: 100%;
+}
+th {
+    text-align: left;
+}
+table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th, table > thead > tr > td, table > tbody > tr > td, table > tfoot > tr > td {
+    border-top: 1px solid transparent;
+    border: 1px solid #transparent;
+    line-height: 2.5;
+    padding-left: 7px;
+    vertical-align: top;
+}
+table thead tr th {
+    border-top: 1px solid transparent;
+}
+.table > caption + thead > tr:first-child > th, .table > colgroup + thead > tr:first-child > th, .table > thead:first-child > tr:first-child > th, .table > caption + thead > tr:first-child > td, .table > colgroup + thead > tr:first-child > td, .table > thead:first-child > tr:first-child > td {
+	border-top: 1px solid transparent;
+}
+table > thead > tr > th {
+    border-bottom: 2px solid #d2d2d2;
+    vertical-align: bottom;
+}
+table > caption + thead > tr:first-child > th, table > colgroup + thead > tr:first-child > th, table > thead:first-child > tr:first-child > th, table > caption + thead > tr:first-child > td, table > colgroup + thead > tr:first-child > td, table > thead:first-child > tr:first-child > td 
+{
+	border-bottom: 0;
+}
+table > tbody + tbody {
+    border-top: 2px solid transparent;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 12px 16px;
+}
+p ins {
+    color: #999;
+}
+dl dd {
+    margin-left: 20px;
+}
+address {
+    font-style: italic;
+}
+::-webkit-input-placeholder {color: #666666; opacity: 1;}
+:-moz-placeholder { color: #666666; opacity: 1; }
+::-moz-placeholder { color: #666666; opacity: 1; }
+:-ms-input-placeholder {color: #666666; opacity: 1;}

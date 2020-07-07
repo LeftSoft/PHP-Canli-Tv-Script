@@ -1,0 +1,992 @@
+
+.login-wraper3:after{
+    border-color:#e01a22 transparent transparent transparent;
+}
+.login-wraper3:before{
+    border-color: transparent #e01a22 transparent transparent;
+}
+.kode-ft-caption p a:before{
+    border-color: #e01a22 transparent transparent transparent;
+}
+.kode-ft-caption.text-right p a:before{
+  border-color: transparent #e01a22 transparent transparent!important;
+}
+.ftb-team-thumb:after{
+    border-color: transparent transparent #e01a22 transparent;
+}
+.ftb-team-thumb:hover{
+  -webkit-box-shadow: 0px 10px 0px 0px #e01a22;
+  -moz-box-shadow: 0px 10px 0px 0px #e01a22);
+  box-shadow: 0px 10px 0px 0px #e01a22;
+}
+/*
+      ============================================================
+         FOOT BALL COLOR
+      ============================================================
+*/
+.text_widget span a:hover,
+.weather-widget i ,
+.kode_video_fig a:hover,
+.ftb_goal_caption h5 a:hover,
+.ftb_club_stats ul li a:hover,
+.spb-meta2 li a:hover,
+.kode_ply_list a,
+.kode_ticket_text .ticket_title span,
+.kode_404_text p a:hover,
+.kode_404_text form button:hover,
+.kode_404_text form button i,
+/*about us PAGE*/
+.kode_history_winner li:hover a,
+.kode_club_training ul li a:hover,
+.kode_club_training ul li a:before,
+.kode_club_hdg h2 span,
+/*contact us PAGE*/
+.kode_contact_office_des:hover i,
+.kode_contact_txet a:hover,
+/*BLOG detail PAGE*/
+.kode_detail_find_facebook:hover,
+.kode_detail_find_facebook i,
+.kode_detail_categories.flicker.macth .kode_detail_macth li h2,
+.kode_detail_categories ul li a:hover,
+.kode_detail_comment_text a:hover,
+.kode_detail_comment_text a i,
+.kode_detail_comment_text span,
+.kode_detail_related .slick-prev:hover:before, 
+.kode_detail_related .slick-next:hover:before,
+.kode_detail_post .breadcrumb li  a:hover,
+.kode_detail_share h5 a,
+.kode_quote_text h6,
+.kode_detail_title ul li a:hover,
+/*BLOG PAGE*/
+.kode_blog_fig figcaption a:hover,
+.kode_blog_fig:hover .kode_blog_caption h5,
+.kode_blog_comment ul li a:hover,
+/**/
+.spb-ticker2 span,
+.grater,
+.heading5 h4 span,
+.heading6 h4 span,
+.ftb-post-thumb .spb-play:hover,
+.ftb-ticket .hire:hover,
+.ftb-main-table li:hover .ftb-compitatev span,
+.ftb-team-thumb:hover .text a,
+.ftb-team-thumb:hover .text p,
+.ftb-team-thumb:hover .ftb-team-dec > span,
+.football-footer .spb-social2 li a:hover,
+.football-footer .spb-popular-dec:hover .text > a,
+.football-footer .sbp-ftnav li a:hover,
+.ftb-item .text > span,
+.ftb-new-dec span,
+.ftb-latestnew2:hover .text a,
+.ftb-new-dec h4 a:hover,
+.ftb-new-dec .text ul li a:hover i,
+.ftb-result1 .text h6 a:hover,
+.ftb-item .text h4 a:hover
+{
+    color: #e01a22;
+}
+/*
+      ============================================================
+         FOOT BALL BACKGROUNG COLOR
+      ============================================================
+*/
+.kode_about_mission_text.text_2:hover:before,
+.kode_about_mission_text:hover:before,
+.login-meta.meta_2  li > a:hover,
+.login-meta .kode_model_btn button:hover,
+.login-meta .modal-content,
+#show-class > form ,
+.spb-tab-dropdown .dropdown-menu li a:hover,
+.nav4 .dl-menu.dl-menuopen li a:hover,
+.ftb_goal_tab_detail li a.active,
+.ftb_goal_tab_detail li a:hover,
+.ftb-ticket.ticket_2 .hire:hover,
+.nav4 ul li ul li  a:before,
+.kode_ply_table .kode_ply_first,
+.kode_ply_gallery  .slick-prev:hover:before, 
+.kode_ply_gallery .slick-next:hover:before,
+.kode_ply_galery_list li figure:before,
+.kode_player_item  .slick-prev:hover, .slick-next:hover,
+.kode_ply_icon ul li a:hover,
+.kode_ply_list a:before,
+.kode_player_fig figcaption:before,
+.kode_ticket_standerd_detail ul li:hover .kode_stand_btn,
+.kode_standerd_date,
+.kode_ticket_sig_fig.fig_2 a,
+.kode_ticket_list li:hover,
+.kode_ticket_list li > span,
+.kode_4043_icon li a:hover,
+.kode_404_text.text_3 > a:hover,
+.kode_about_awards_fig a,
+.kode_history_winner li:hover span,
+.kode_club_fig a,
+.ftb-fixture-row > h5,
+/*fixture PAGE*/
+.ftb-venue.venue_2 i,
+.ftb_tabs_drop .dropdown-menu > li > a:hover,
+/*contact us PAGE*/
+.kode_contact_icon li a:hover,
+.kode_contant_area button:hover,
+/*BLOG sidebar PAGE*/
+.kode_detail_text.p_2 a:hover,
+/*BLOG detail PAGE*/
+.kode_detail_find_row .kode_soprt_text a:hover,
+.kode_detail_categories.flicker .slick-dots li button:hover,
+.kode_detail_categories > h5,
+.kode_detail_side_field button,
+.kode_detail_btn button:hover,
+.kode_detail_share  li a:hover,
+.kode_detail_admin span,
+/*BLOG PAGE*/
+.kode_blog_pagination a:hover,
+.kode_blog_fig:hover .kode_blog_comment > a,
+.kode_banner1_caption,
+/*HOME PAGE*/
+.login-wraper3,
+.social-style3 li:hover,
+.btn-4,
+.ftb-result-logo span,
+.ftb-final-result a,
+.ftb-post-thumb .text a,
+.ftb-rating-table li:hover,
+.ftb-main-table li:hover,
+.ftb-tabs-wrap .nav-tabs li.active a,
+.ftb-gallery figcaption a,
+.ftb-load a,
+.ftb-counterup,
+.ftb-team-thumb:before,
+.football-footer .spb-popular-dec:hover figure::before,
+.football-footer .spb-flicker .spb-btn3,
+.football-footer .spb-flicker ul li:hover::after,
+.football-footer .spb-flicker ul li:hover::before,
+.football-footer #kode-topbtn,
+.buy-btn,
+.arrow-iconbtn,
+.ftb-latestnew2:hover,
+.ftb-latestnew2:hover .ftb-new-dec,
+.ftb-new-dec .text > a:hover,
+.like-icon:hover,
+.ftb-bx-slider .bx-wrapper .bx-controls-direction a:hover:before,
+.ftb-tabs-wrap .nav-tabs li a:hover,
+/**/
+.kode_calendar .fc-event,
+.kode_calendar .fc button:hover,
+.kode_benner1_cols .breadcrumb
+{
+    background-color: #e01a22;
+}
+/*
+      ============================================================
+         FOOT BALL BORDER COLOR
+      ============================================================
+*/
+.ftb_goal_tab_detail li a.active,
+.ftb_goal_tab_detail li a:hover,
+.ftb-ticket.ticket_2 .hire:hover,
+.kode_ticket_standerd_detail ul li:hover .kode_stand_btn,
+.kode_4043_icon li a:hover,
+/*contact us PAGE*/
+.kode_contact_icon li a:hover,
+.kode_contact_icon li a:hover,
+/*BLOG sidebar PAGE*/
+.kode_detail_text.p_2 a:hover,
+/*BLOG detail PAGE*/
+.kode_detail_btn button:hover,
+.kode_detail_share  li a:hover,
+/*BLOG PAGE*/
+.kode_blog_fig:hover .kode_blog_comment > a,
+.kode_blog_pagination a:hover,
+.kode_blog_comment > a:hover,
+/**/
+.topbar4,
+.football-caption,
+.ftb-result1 .text h6,
+.kode_calendar .fc button:hover,
+.kode_calendar .fc-event,
+.ftb-compitatev span,
+.ftb-tabs-wrap .nav-tabs li.active a,
+.ftb-tabs-wrap .nav-tabs li a:hover
+{
+    border-color: #e01a22;
+}
+
+
+/*TRANSITION*/
+/*
+      ============================================================
+         FOOT BALL TRANSITION COLOR
+      ============================================================
+*/
+.kode_club_fig a,
+.kode_about_mission_text.text_2:before,
+.kode_about_mission_text:before,
+.kode_calendar .fc button,
+ .text_widget span a,
+.login-meta.meta_2  li > a,
+.login-meta .kode_model_btn button,
+.text-caption a,
+.tennis-nav .navigation li ul li a:before,
+.kode_video_fig a,
+.spb-tab-dropdown .dropdown-menu li a,
+.kode_ticket_list .ticket_btn a,
+.ticket_title span,
+.kode_detail_btn button,
+.nav4 .dl-menu.dl-menuopen li a,
+.ftb_goal_tab_detail li a,
+.ftb_goal_caption h5 a,
+.ftb_club_stats ul li a,
+.ftb-ticket .hire,
+.text,
+.text.text-hover,
+.text .rating.rating_3 span,
+.kode_about_awards_fig .kode_awards_thumb,
+.kode_ply_galery_list li a,
+.tns-load a,
+.kode_player_item .slick-prev:after,
+.kode_player_item .slick-next:after,
+.ftb-ticket.ticket_2 .hire,
+.football-footer #kode-topbtn,
+.football-footer .sbp-ftnav li a,
+.football-footer .spb-flicker .spb-btn3,
+.spb-flicker ul li:after, 
+.spb-flicker ul li:before,
+.spb-flicker ul li,
+.spb-flicker ul li .spb-play,
+.spb-popular-dec .spb-play,
+.football-footer .spb-social2 li a,
+.spb-meta2 li a,
+.spb-popular-dec figure:before,
+.spb-popular-dec figure:after,
+.nav4 ul li ul li  a:before,
+.nav4 ul li ul,
+.kode_ply_gallery  .slick-prev:before, 
+.kode_ply_gallery .slick-next:before,
+.kode_ply_galery_list li figure:before,
+.kode_player_item  .slick-prev, .slick-next,
+.kode_ply_icon ul li a,
+.kode_ply_list a span,
+.kode_ply_list a,
+.kode_ply_list a:before,
+ .kode_stand_btn,
+.kode_ticket_sig_fig.fig_2 a,
+.kode_ticket_list li > span,
+.kode_ticket_list .ticket_btn,
+.kode_ticket_list li,
+.kode_4043_icon li a,
+.kode_404_text.text_3 > a,
+.kode_404_social li a,
+.kode_404_text p a,
+.kode_404_text form button
+/*about us PAGE*/
+.kode_about_awards_fig .kode_awards_thumb,
+.kode_about_awards_fig a,
+.kode_about_awards_fig .titile,
+.kode_about_awards_fig figure,
+.kode_history_text figure img,
+.kode_history_winner li a,
+.kode_history_winner li span,
+.kode_club_training ul li a,
+.ftb-item.item_2 figcaption,
+/*fixture PAGE*/
+.ftb_tabs_drop .dropdown-menu > li > a,
+/*contact us PAGE*/
+.kode_contact_icon li a,
+.kode_contant_area button,
+.kode_contact_office_des i,
+.kode_contact_office_list,
+.kode_contact_office_list:before,
+.kode_contact_txet a,
+.kode_detail_text.p_2 a,
+/*BLOG detail PAGE*/
+.kode_detail_fig figure img,
+.kode_detail_find_facebook,
+.kode_detail_find_fig ul li img,
+.kode_detail_find_row .kode_soprt_text a,
+.kode_detail_categories.flicker .slick-dots li button,
+.kode_detail_categories ul li a,
+.kode_detail_side_field button,
+.kode_detail_btn button:hover,
+.kode_detail_comment_list figure img,
+.kode_detail_comment_text a,
+.kode_detail_related .slick-prev:before, 
+.kode_detail_related .slick-next:before,
+.kode_detail_post .breadcrumb li  a,
+.kode_detail_share  li a,
+/*BLOG PAGE*/
+.kode_detail_title ul li a,
+.kode_blog_pagination a,
+.kode_blog_fig figcaption a,
+.kode_blog_fig figcaption,
+.kode_blog_fig figure:before,
+.kode_blog_fig figure:after,
+.kode_blog_caption h5,
+.kode_blog_comment > a,
+.kode_blog_fig figure img,
+.kode_blog_comment ul li a,
+.kode_benner1_cols .breadcrumb li a,
+.social-style3 li,
+.social-style3 li a,
+.nav4 ul li a,
+.ftb-rating-table li,
+.ftb-main-table li,
+.ftb-main-table li:before,
+.ftb-compitatev span,
+.ftb-tabs-wrap .nav-tabs li a,
+.ftb-gallery figcaption a,
+.ftb-gallery figcaption,
+.ftb-gallery figure:before,
+.ftb-gallery figure,
+.ftb-gallery figure img,
+.ftb-team-thumb figure:before,
+.ftb-team-thumb:before,
+.ftb-team-thumb:after,
+.ftb-team-thumb,
+.ftb-team-thumb span,
+.ftb-team-thumb .text a,
+.ftb-team-thumb .text p,
+.spb-popular-dec .text > a,
+.buy-btn,
+.ftb-item,
+.ftb-item .text .like-icon,
+.ftb-item .text .buy-btn,
+.arrow-iconbtn,
+.ftb-team-dec,
+.ftb-latestnew2,
+.ftb-new-dec,
+.ftb-latestnew2 .text p,
+.ftb-latestnew2 .text h4 a,
+.ftb-latestnew2 .text a,
+.ftb-new-dec .text > a,
+.ftb-new-dec h4 a,
+.ftb-new-dec .text ul li a,
+.ftb-new-dec .text ul li a i,
+.ft-about-wrap .text ul li a img,
+.ftb-final-result a,
+.ftb-result1 .text h6 a,
+.ftb-post-thumb img,
+.like-icon,
+.ftb-item .text h4 a,
+.ftb-bx-slider .bx-wrapper .bx-controls-direction a:before,
+.btn-4,
+.ftb-tabs-wrap .nav-tabs li a,
+
+
+.crkt-fixtures-dec .text,
+.crkt-fixtures-dec .text h4 a,
+.crkt-btn1,
+.crkt-topbar li a,
+.crkt-topbar li,
+.crkt-search input[type="text"],
+.crkt-navigation li,
+.crkt-tabnav li a,
+.crkt-tabnav > li.active > a:before,
+.crkt-accordian .accordion,
+.crkt-table tr,.crkt-videos .thumb:before,
+.crkt-news .text h4 a,.crkt-icon,
+.crkt-news .thumb img,
+.crkt-social li a,
+.crkt-videos .text p a,
+.crkt-team-dec h4 a,
+.crkt-more,
+.post-caption h5 a,
+.input-dec button,
+.crkt-social-2 li a,
+.widget-crktgallery ul li img,
+.crkt-copyright p a,
+.widget ul li,
+.crkt-slider .bx-wrapper .bx-controls-direction a,
+.crkt-pagination a,
+.crkt-dropdown .dropdown button,
+.crkt-fixtures-link a,
+.crkt-fixtures-more a,
+.crkt-viewmore a,
+.add-caption h4 a,
+/* TENNIS COLOR */
+.social-wrap li a,
+.navigation li a,
+.text-caption a,
+.tns-banner .bx-wrapper .bx-pager.bx-default-pager a,
+.thumb-caption,
+.thumb-caption-overlay,
+.thumb-caption h4 a,
+.tns-btn,
+.tns-event-caption:before,
+.tns-event-caption h4 a,
+.tns-event-caption a,
+.tns-event-caption,
+.tns-event,
+.tns-btn2,
+.thumb-right h6 a,
+.thumb-left h6 a,
+.tns-gallery-thumb:before,
+.tns-blog-wrap,
+.tns-blog-caption > a,
+.tns-blog-wrap .thumb:before,
+.tns-blog-caption h4 a,
+.tns-blog-caption ul li a,
+.tns-date,
+.tns-gallery2,
+.tns-gallery2 .text h4 a,
+.thumb-caption2 li a,
+.thumb-caption2,
+.tns-team-caption-overlay,
+.tns-team-caption,
+.tns-social2 li a,
+.tns-testimonial-silder .bx-wrapper .bx-pager.bx-default-pager a,
+.tns-testimonial-silder .bx-wrapper .bx-controls-direction a:before,
+.tns-testimonial-silder .bx-wrapper .bx-controls-direction a,
+.tns-achiv figure:before,
+.tsn-search button,
+.tsn-search input[type=text],
+.tsn-news ul li a,
+.tsn-contact-dec span,
+.tns-copyright p a,
+.hire,
+.discover,
+.tns-load a,
+.tns-gallery-caption a,
+.tns-gallery-thumb,
+.tns-gallery-caption,
+.tns-btn2,
+.tns-achiv figcaption a,
+.ad-search i,
+.tns-tabnav li a,
+.tns-viewall,
+.tns-tab-content,
+.tns-team-1 h5 a,
+.login-wrap .open > .dropdown-menu li a,
+.thumb-caption p,
+.thumb-caption .tns-btn,
+/* sport COLOR */
+.spb-helpdeck li a,
+.spb-social1 li a,
+.spb-user-wrap a,
+.spb-nav .navigation li a,
+.spb-nav .navigation li a:before,
+.spb-more a,
+.spb-show,
+.spb-banner-wrap:before,
+.spb-banner-wrap .text:before,
+.spb-meta li,
+.spb-meta li a,
+.spb-meta li span,
+.spb-tabs-nav li a,
+.spb-tabs-nav li a:before,
+.spb-tabs-nav li a,
+.spb-tab-dropdown button:before,
+.spb-tab-dropdown button,
+.spb-meta2 li a,
+.spb-meta2 li span,
+.spb-latest-news .text h5 a,
+.spb-btn,
+.spb-latest-news .thumb:before,
+.spb-play,
+.spb-latest-news,
+.spb-latest-news .thumb img,
+.spb-btn2,
+.sbp-ribbon2,
+.spb-read,
+.spb-read a,
+.spb-pagination .pagination li a,
+.spb-ticker .bx-wrapper .bx-controls-direction a,
+.spb-text-widget button,
+.spb-social2 li a,
+.spb-popular-dec figure:before,
+.spb-popular-dec figure:after,
+.spb-btn3,
+.spb-copyright #kode-topbtn,
+.sbp-ftnav li a,
+.spb-copyright p a,
+.spb-flicker ul li a,
+.spb-flicker ul li:before,
+.spb-flicker ul li:after,
+.block-nav .slick-active .nav-thumb-caption h6 a,
+.spb-latest-news6,
+.spb-latest-news6 .text h6 a,
+.widget-instagram > a,
+.widget-instagram ul li a,
+.widget-instagram ul li a:before,
+.widget-instagram ul li a:after,
+.widget-instagram ul li a img,
+.widget-categories ul li,
+.widget-categories ul li a,
+.widget-categories ul li a:before,
+.spb-seeall
+ {
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+}
+
+.ftb-item .text h4,
+.ftb_item_detail
+ {
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+	
+ }
+ 
+ 
+ /* ThemeColor */
+.thcolor,.thcolorhover:hover,.kode-section-title h2,.kode-pro-inner:hover figcaption h4 a,.next-prev-style .owl-nav div,
+.kode-blog-list ul li:hover .kode-time-zoon h5 a,.kode-large-blog ul li:hover .kode-blog-btn,.children li a:before,
+.kode-grid-blog .kode-blog-options li a:hover,.widget-tabnav li:hover a,.widget-tabnav li.active a,
+.kode-recent-blog > ul > li:hover h6 a,.widget-recent-news ul li:hover h6 a,.widget_categories ul li:hover a,
+.widget_categories ul li:hover a:before,.kode-related-blog ul li:hover h6 a,
+.kode-gallery ul li:hover h2 a,.player-nav li.active a,.fixer-pagination a:hover,.next-prev-style .owl-nav div {
+    color: #195D10 !important;
+}
+
+.heading-12 span.left, .heading-12 span.right, .thbg-color,.thbg-colorhover:hover,.navbar-nav > li > a:before,.owl-nav div:hover,.kode-team-network li a:hover,
+.kode-team-list figure:hover figcaption h2 a,.kode-services ul li:hover .service-info,.kode-table thead,
+.kode-blog-list ul li:hover .kode-time-zoon time,.kode-blog-list ul li:hover .kode-time-zoon:before,.kode-bottom-footer,
+.children > li:hover > a,.pagination a:hover,.pagination span,.widget-tabnav li a:before,.widget-recent-news ul li:hover time,
+.kode-table caption,.shop-btn a:hover,.fixer-btn a:hover,.kode-underconstruction .kode-innersearch form input[type="submit"] {
+    background-color: #195D10;
+}
+.next-prev-style .owl-nav div,
+.th-bordercolor,.th-bordercolorhover:hover,.kd-headbar,.kode-section-title h2,.owl-nav div:hover,
+.kode-team-list figure:hover figcaption h2 a,.next-prev-style .owl-nav div,.kode-table,
+.kode-simple-form ul li input[type="submit"],.children,.kode-grid-blog .kode-blog-info:before,.kode-modrenbtn:hover,
+.kode-widget-title h2,.widget-recent-news ul li:hover time,blockquote,.kode-inner-fixer,
+#koderespond form p input[type="button"],#koderespond form p input[type="submit"],.kode-header-three .navbar-nav > li > a::before {
+    border-color: #195D10 !important;
+}
+.tab-widget {
+    box-shadow: 0px 2px 0px 0px #195D10,0px 2px 0px 0px #195D10 inset;
+}
+
+
+.kode-admin-post:before,
+.kode-result-list article:before,
+.kode-testimonial figure:before,
+.countdown-amount:before{
+    border-top-color: #195D10;
+}
+/* 2nd ThemeColor */
+.thcolortwo,.thcolortwohover:hover,.kode-medium-blog >ul >li:hover h5 a,.kode-medium-blog .kode-blog-options li a:hover {
+    color: #ffe325;
+}
+.subheader-height:after{
+    border-bottom-color: #195d10;
+}
+.subheader-height:before{
+    background: #195d10;
+}
+.kode-subheader{
+    background:#009c00;
+}
+.thbg-colortwo,.thbg-colortwohover:hover,#mainbanner .flex-control-paging li a.flex-active,.kode-pro-inner:hover .kode-pro-info,
+.kode-medium-blog >ul >li:hover .medium-info time, .kode-caption h2{
+    background-color: #e01a22;
+}
+.kode-caption h2:before, .kode-caption h2:after{
+    border-bottom-color: #ffe325;
+}
+
+.kode-modren-btn, .th-bordertwocolor,.th-bordercolortwohover:hover,.kode-medium-blog,.kode-medium-blog >ul >li:hover .medium-info time,
+.kode-loginform p input[type="submit"] {
+    border-color: #ffe325;
+}
+
+/*
+      ============================================================
+         CRICKET COLOR START
+      ============================================================
+*/
+
+/*
+============================================================
+           Font Color
+============================================================
+*/
+.crkt-team-dec:hover h4 a,
+.crkt-bnr-caption h4 b,
+.crkt-event .text h5 a,
+.crkt-table thead th,
+.crkt-videos .text h4 a,
+.crkt-videos .thumb:before,
+.crkt-news:hover .text h4 a,
+.crkt-videos .text p a:hover,
+.crkt-more:hover,
+.post-caption h5 a:hover,
+.crkt-copyright p a:hover,
+.widget ul li:hover,
+.crkt-fixtures-dec .text:hover h4 a,
+.crkt-viewmore a:hover,
+.add-caption h4 a:hover,
+.crkt-bx-banner .bx-wrapper .bx-controls-auto .active.bx-start::before,
+.crkt-bx-banner .bx-wrapper .bx-controls-auto .active.bx-stop::before
+{   
+    color: #ffcd02;
+}
+/*
+      ============================================================
+          CRICKET Background Color
+      ============================================================
+*/
+.crkt-topbar,
+.crkt-navigation li:hover,
+.crkt-links .crkt-btn1.active,
+.crkt-links .crkt-btn1:hover,
+.crkt-hd:before,
+.crkt-news .text h4:before,
+.cup-name,
+.crkt-hd2 h2:before,
+.score-btn,
+.crkt-tabnav > li.active.current > a,
+.crkt-accordian .accordion,
+.crkt-midbar,
+.post-caption small,
+.crkt-more,
+.crkt-hd3:before,
+.crkt-icon:hover,
+.crkt-social li a:hover,
+.crkt-slider .bx-wrapper .bx-controls-direction a,
+.crkt-fixtures-hd,
+.crkt-pagination a,
+.crkt-dropdown .dropdown.open button,
+.crkt-fixtures-link a:hover,
+.crkt-fixtures-more a,
+.add-caption h4:before,
+.kode-cricket .modal-header
+{
+    background-color: #ffcd02;
+}
+/*
+      ============================================================
+         CRICKET  Border Color
+      ============================================================
+*/
+
+.crkt-links .crkt-btn1.active,
+.crkt-links .crkt-btn1:hover,
+.crkt-event .thumb,
+.crkt-videos .thumb,
+.crkt-dropdown .dropdown.open button,
+.crkt-fixtures-link a:hover,
+.crkt-bx-banner  .bx-wrapper .bx-pager.bx-default-pager a.active
+{
+    border-color: #ffcd02;
+}
+.crkt-tabnav > li.active.current > a:before{
+    border-color: #ffcc02 transparent transparent transparent;  
+}
+
+
+
+
+/*
+      ============================================================
+         TENNIS COLOR START
+      ============================================================
+*/
+.tns-heading1 span i,
+.tns-classes:hover .thumb-caption h4 a,
+.tns-btn,
+.tns-event:hover .tns-event-caption h4 a,
+.tns-event:hover .tns-event-caption a,
+.tns-fixure-dec .text h5,
+.tns-tags li,
+.countdown-dec h4,
+.countdown-dec p,
+.tns-btn2,
+.thumb-right h6 a:hover,
+.thumb-left h6 a:hover,
+.discover,
+.tns-blog-wrap:hover .tns-blog-caption h4 a,
+.tns-blog-caption ul li a:hover,
+.tns-gallery2 .text p,
+.tns-gallery2:hover .text h4 a,
+.thumb-caption2 li a:hover,
+.tns-social2 li a:hover,
+.tsn-search button:hover,
+.tsn-news ul li a:hover,
+.tsn-contact-dec span:hover,
+.hire:hover,
+.tns-gallery-caption a:hover,
+.tns-achiv figcaption a:hover,
+.ad-search i:hover,
+.tns-team-1 h5 a:hover
+{
+    color:#7fae00; 
+}
+
+.topbar,
+.tennis-nav .navigation li:hover a,
+.text-caption a,
+.tns-heading1 span:before,
+.tns-heading1 span:after,
+.thumb-caption .tns-btn:hover,
+.tns-eventbg:before,
+.tns-event:hover .tns-event-caption:before,
+.thumb-left figure:before,
+.thumb-right figure::before,
+.tns-load a,
+.tns-midbar-bg:before,
+.tns-blog-wrap:hover .tns-blog-caption > a,
+.tns-blog-wrap:hover .tns-date,
+.tns-team-caption-overlay,
+.tns-testimonial-bg:before,
+.tns-copyright,
+.tsn-search button,
+.discover:hover,
+.tns-btn2:hover,
+.tns-counterup,
+.tns-viewall:hover,
+.login-wrap .open > .dropdown-menu li a:hover
+{
+    background-color:#7fae00; 
+}
+.tns-banner .bx-wrapper .bx-pager.bx-default-pager a:hover, 
+.tns-banner .bx-wrapper .bx-pager.bx-default-pager .bx-pager-item .bx-pager-link.active{
+    background-color:#7fae00!important; 
+}
+
+.tns-classes:hover .thumb-caption,
+.tns-btn,
+.tns-fixure-dec,
+.tns-tags li,
+.tns-gallery-thumb:before,
+.tns-blog-wrap:hover,
+.tns-blog-wrap:hover .tns-blog-caption > a,
+.tns-blog-wrap:hover .thumb:before,
+.tsn-search input[type=text]:focus,
+.tns-btn2:hover
+{
+    border-color:#7fae00; 
+}
+
+/*
+      ============================================================
+         SPORTS BLOG COLOR
+      ============================================================
+*/
+.spb-helpdeck li a:hover,
+.spb-nav .navigation li:hover a,
+.spb-meta2 li a:hover,
+.spb-meta2 li span:hover,
+.spb-latest-news .text h5 a:hover,
+.spb-play:hover,
+.spb-latest-news5:hover .text h5 a,
+.spb-latest-news6:hover .text h5 a,
+.spb-latest-news6:hover .spb-meta2 li span,
+.spb-latest-news6:hover .spb-meta2 li a,
+.spb-tabs-nav li.active a:hover,
+.spb-tabs-nav li.active a,
+.spb-text-widget button,
+.spb-copyright p a,
+.sbp-ftnav li a:hover,
+.spb-video-slider .block-nav .slick-current.slick-center .nav-thumb-caption h6 a,
+.spb-latest-news6:hover .text h6 a,
+.widget-categories ul li:hover a,
+.widget-categories ul li:hover a:before
+{
+    color: #ff3c36;
+}
+/*BACKGROUND COLOR*/
+.spb-social1 li a:hover,
+.spb-user-wrap a:hover,
+.spb-nav .navigation li a:before,
+.spb-more a,
+.spb-show:hover,
+.spb-center .slick-prev:hover:before,.spb-center .slick-next:hover:before,
+.spb-center .slick-center .spb-banner-wrap .text:before,
+.lable-1,
+.spb-tabs-nav li a:before,
+.spb-tab-dropdown button:before,
+.spb-btn,
+.spb-btn2,
+.sbp-ribbon1,
+.spb-read a,
+.spb-pagination .pagination li a:hover,
+.spb-ticker > span,
+.spb-ticker .bx-wrapper .bx-controls-direction a,
+.spb-social2 li a:hover,
+.spb-popular-dec figure:before,
+.spb-btn3,
+.spb-copyright #kode-topbtn,
+.spb-flicker ul li:before,
+.spb-flicker ul li:after,
+.spb-video-slider .slick-prev::before,
+.spb-video-slider .slick-next::before,
+.spb-oponant em,
+.spb-seeall:hover{
+    background-color: #ff3c36;
+}
+/*BORDER COLOR*/
+.spb-user-wrap a:hover,
+.spb-pagination .pagination li a:hover,
+.spb-social2 li a:hover,
+.aside-heading,
+.spb-seeall:hover,
+.widget-categories ul li:hover 
+{
+    border-color: #ff3c36;
+}
+.sbp-ribbon1:before{
+    border-color: #ff3c36 transparent transparent transparent;
+}
+.lable-1:before{
+    border-color: #ff3c36 transparent transparent transparent;
+}
+.lable-1:after{
+    border-color: transparent #ff3c36 transparent transparent;
+}
+/*
+      ============================================================
+         SPORTS BLOG COLOR END
+      ============================================================
+*/
+/*
+      ============================================================
+         FOOT BALL COLOR
+      ============================================================
+*/
+.spb-ticker2 span,
+.grater,
+.heading5 h4 span,
+.heading6 h4 span,
+.ftb-post-thumb .spb-play:hover,
+.ftb-ticket .hire:hover,
+.ftb-main-table li:hover .ftb-compitatev span,
+.ftb-team-thumb:hover .text a,
+.ftb-team-thumb:hover .text p,
+.ftb-team-thumb:hover .ftb-team-dec > span,
+.football-footer .spb-social2 li a:hover,
+.football-footer .spb-popular-dec:hover .text > a,
+.football-footer .sbp-ftnav li a:hover,
+.ftb-item .text > span,
+.ftb-new-dec span,
+.ftb-latestnew2:hover .text a,
+.ftb-new-dec h4 a:hover,
+.ftb-new-dec .text ul li a:hover i,
+.ftb-result1 .text h6 a:hover,
+.ftb-item .text h4 a:hover
+{
+    color: #e01a22;
+}
+/*BACKGROUND COLOR*/
+.login-wraper3,
+.social-style3 li:hover,
+.btn-4,
+.ftb-result-logo span,
+.ftb-final-result a,
+.ftb-post-thumb .text a,
+.ftb-rating-table li:hover,
+.ftb-main-table li:hover,
+.ftb-tabs-wrap .nav-tabs li.active a,
+.ftb-gallery figcaption a,
+.ftb-load a,
+.ftb-counterup,
+.ftb-team-thumb:before,
+.football-footer .spb-popular-dec:hover figure::before,
+.football-footer .spb-flicker .spb-btn3,
+.football-footer .spb-flicker ul li:hover::after,
+.football-footer .spb-flicker ul li:hover::before,
+.football-footer #kode-topbtn,
+.buy-btn,
+.arrow-iconbtn,
+.ftb-latestnew2:hover,
+.ftb-latestnew2:hover .ftb-new-dec,
+.ftb-new-dec .text > a:hover,
+.like-icon:hover,
+.ftb-bx-slider .bx-wrapper .bx-controls-direction a:hover:before,
+.ftb-tabs-wrap .nav-tabs li a:hover
+{
+    background-color: #e01a22;
+}
+/*BORDER COLOR*/
+.topbar4,
+.football-caption,
+.ftb-result1 .text h6,
+.ftb-compitatev span,
+.ftb-tabs-wrap .nav-tabs li.active a,
+.ftb-tabs-wrap .nav-tabs li a:hover
+{
+    border-color: #e01a22;
+}
+.login-wraper3:after{
+    border-color:#e01a22 transparent transparent transparent;
+}
+.login-wraper3:before{
+    border-color: transparent #e01a22 transparent transparent;
+}
+.kode-ft-caption p a:before{
+    border-color: #e01a22 transparent transparent transparent;
+}
+.kode-ft-caption.text-right p a:before{
+  border-color: transparent #e01a22 transparent transparent!important;
+}
+.ftb-team-thumb:after{
+    border-color: transparent transparent #e01a22 transparent;
+}
+.ftb-team-thumb:hover{
+  -webkit-box-shadow: 0px 10px 0px 0px #e01a22;
+  -moz-box-shadow: 0px 10px 0px 0px #e01a22);
+  box-shadow: 0px 10px 0px 0px #e01a22;
+}
+/*TRANSITION*/
+.social-style3 li,
+.social-style3 li a,
+.nav4 ul li a,
+.ftb-rating-table li,
+.ftb-main-table li,
+.ftb-main-table li:before,
+.ftb-compitatev span,
+.ftb-tabs-wrap .nav-tabs li a,
+.ftb-gallery figcaption a,
+.ftb-gallery figcaption,
+.ftb-gallery figure:before,
+.ftb-gallery figure,
+.ftb-gallery figure img,
+.ftb-team-thumb figure:before,
+.ftb-team-thumb:before,
+.ftb-team-thumb:after,
+.ftb-team-thumb,
+.ftb-team-thumb span,
+.ftb-team-thumb .text a,
+.ftb-team-thumb .text p,
+.spb-popular-dec .text > a,
+.buy-btn,
+.ftb-item,
+.ftb-item .text .like-icon,
+.ftb-item .text .buy-btn,
+.arrow-iconbtn,
+.ftb-team-dec,
+.ftb-latestnew2,
+.ftb-new-dec,
+.ftb-latestnew2 .text p,
+.ftb-latestnew2 .text h4 a,
+.ftb-latestnew2 .text a,
+.ftb-new-dec .text > a,
+.ftb-new-dec h4 a,
+.ftb-new-dec .text ul li a,
+.ftb-new-dec .text ul li a i,
+.ft-about-wrap .text ul li a img,
+.ftb-final-result a,
+.ftb-result1 .text h6 a,
+.ftb-post-thumb img,
+.like-icon,
+.ftb-item .text h4 a,
+.ftb-bx-slider .bx-wrapper .bx-controls-direction a:before,
+.btn-4,
+.ftb-tabs-wrap .nav-tabs li a
+ {
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+}
+
+/*
+      ============================================================
+         FOOT BALL COLOR END
+      ============================================================
+*/

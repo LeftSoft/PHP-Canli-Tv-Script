@@ -1,0 +1,9 @@
+RewriteEngine on
+ErrorDocument 404 http://localhost/canlimacv2/404.php
+RewriteRule ^kanal/([0-9a-zA-Z-_]+)/([0-9]+)$ kanal.php?sef=$1&kanal_id=$2 [L,QSA]
+
+
+
+
+
+
